@@ -1,0 +1,157 @@
+Abaza Northwest Caucasian
+Afrikaans IE, Germanic
+Akkadian Afro-Asiatic
+Akuntsu Tupian
+Albanian IE, Albanian
+Amharic Afro-Asiatic
+Ancient_Greek IE, Greek
+Apurina Arawakan
+Arabic Afro-Asiatic
+Armenian IE, Armenian
+Assyrian Afro-Asiatic
+Bambara Mande
+Basque Basque
+Beja Afro-Asiatic
+Belarusian IE, Slavic
+Bhojpuri IE, Indic
+Breton IE, Celtic
+Bulgarian IE, Slavic
+Buryat Mongolic
+Cantonese Sino-Tibetan
+Catalan IE, Italic
+Chinese Sino-Tibetan
+Chukchi Chukotko-Kamchatkan
+Classical_Chinese Sino-Tibetan
+Coptic Afro-Asiatic
+Croatian IE, Slavic
+Czech IE, Slavic
+Danish IE, Germanic
+Dutch IE, Germanic
+English IE, Germanic
+Erzya Uralic
+Estonian Uralic
+Faroese IE, Germanic
+Finnish Uralic
+French IE, Italic
+Frisian_Dutch Code switching
+Galician IE, Italic
+German IE, Germanic
+Gothic IE, Germanic
+Greek IE, Greek
+Guajajara Tupian
+Hebrew Afro-Asiatic
+Hindi IE, Indic
+Hindi_English Code switching
+Hittite IE, Anatolian
+Hungarian Uralic
+Icelandic IE, Germanic
+Indonesian Austronesian
+Irish IE, Celtic
+Italian IE, Italic
+Japanese Japanese
+Kaapor Tupian
+Kangri IE, Indic
+Karelian Uralic
+Kazakh Turkic
+Khunsari IE, Iranian
+Kiche Mayan
+Komi_Permyak Uralic
+Komi_Zyrian Uralic
+Korean Korean
+Kurmanji IE, Iranian
+Latin IE, Italic
+Latvian IE, Baltic
+Laz Kartvelian
+Lithuanian IE, Baltic
+Livvi Uralic
+Low_Saxon IE, Germanic
+Magahi IE, Indic
+Makurap Tupian
+Maltese Afro-Asiatic
+Manx IE, Celtic
+Marathi IE, Indic
+Mbya_Guarani Tupian
+Middle_Irish IE, Celtic
+Moksha Uralic
+Munduruku Tupian
+Naija Creole
+Nayini IE, Iranian
+North_Sami Uralic
+Norwegian IE, Germanic
+Old_Church_Slavonic IE, Slavic
+Old_East_Slavic IE, Slavic
+Old_French IE, Italic
+Old_Irish IE, Celtic
+Old_Japanese Japanese
+Old_Turkish Turkic
+Persian IE, Iranian
+Polish IE, Slavic
+Portuguese IE, Italic
+Romanian IE, Italic
+Russian IE, Slavic
+Sanskrit IE, Indic
+Scottish_Gaelic IE, Celtic
+Serbian IE, Slavic
+Sindhi IE, Indic
+Skolt_Sami Uralic
+Slovak IE, Slavic
+Slovenian IE, Slavic
+Soi IE, Iranian
+South_Levantine_Arabic Afro-Asiatic
+Spanish IE, Italic
+Swedish IE, Germanic
+Swedish_Sign_Language Sign Language
+Swiss_German IE, Germanic
+Tagalog Austronesian
+Tamil Dravidian
+Telugu Dravidian
+Thai Tai-Kadai
+Tupinamba Tupian
+Turkish Turkic
+Turkish_German Code switching
+Ukrainian IE, Slavic
+Upper_Sorbian IE, Slavic
+Urdu IE, Indic
+Uyghur Turkic
+Vietnamese Austro-Asiatic
+Warlpiri Pama-Nyungan
+Welsh IE, Celtic
+Western_Armenian IE, Armenian
+Wolof Niger-Congo
+Yoruba Niger-Congo
+Yupik Eskimo-Aleut
+Burmese Sino-Tibetan
+Nepali IE, Indic
+Hausa Afro-Asiatic
+Bengali IE, Indic
+Mongolian Mongolic
+Filipino Austronesian
+Yiddish IE, Germanic
+Swahili Niger-Congo
+Western_Frisian IE, Germanic
+Javanese Austronesian
+Kyrgyz Turkic
+Somali Afro-Asiatic
+Xhosa Niger-Congo
+Pashto IE, Iranian
+Nepali IE, Indic
+Sinhala IE, Indic
+Malayalam Dravidian
+Uzbek Turkic
+Esperanto Conlang
+Bosnian IE, Slavic
+Oromo Afro-Asiatic
+Kannada Dravidian
+Malay Austronesian
+Oriya IE, Indic
+Georgian Kartvelian
+Sundanese Austronesian
+Khmer Austro-Asiatic
+Azerbaijani Turkic
+Gujarati IE, Indic
+Assamese IE, Indic
+Lao Tai-Kadai
+Punjabi IE, Indic
+Malagasy Austronesian
+Macedonian IE, Slavic
+Traditional_Chinese Sino-Tibetan

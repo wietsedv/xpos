@@ -1,0 +1,5725 @@
+     2    28  0     1    92    72                       
+(I4,20X,10A1)
+   1                    I
+   2                    you
+   3                    we
+  11                    one
+  12                    two
+  18                    person
+  19                    fish
+  21                    dog
+  22                    louse
+  23                    tree
+  25                    leaf
+  28                    skin
+  30                    blood
+  31                    bone
+  34                    horn
+  39                    ear
+  40                    eye
+  41                    nose
+  43                    tooth
+  44                    tongue
+  47                    knee
+  48                    hand
+  51                    breast
+  53                    liver
+  54                    drink
+  57                    see
+  58                    hear
+  61                    die
+  66                    come
+  72                    sun
+  74                    star
+  75                    water
+  77                    stone
+  82                    fire
+  85                    path
+  86                    mountain
+  92                    night
+  95                    full
+  96                    new
+ 100                    name
+                                     
+p
+b
+f
+v
+m
+w             
+8       
+t
+d
+s
+z
+c
+n
+r
+l       
+S
+Z       
+C
+j
+T       
+5
+y
+k
+g
+x
+N
+q                     
+X
+h
+7
+L
+4
+G
+!       
+i   
+e
+E
+3
+a
+u
+o
+       
+                                 
+AKKADIAN
+ 1   33.10   44.10          -2         akk
+1 I	anaku //
+2 you	ata, ati //
+3 we	ninu //
+11 one	iSten, iStet //
+12 two	Sina, Sita //
+18 person	awilu //
+19 fish	nunu //
+21 dog	kalbu //
+22 louse	uplu //
+23 tree	isX~u //
+25 leaf	XXX //
+28 skin	gildu //
+30 blood	damu //
+31 bone	esX~emtu //
+34 horn	kX~arnu, qarnu //
+39 ear	uznu //
+40 eye	inu //
+41 nose	apu //
+43 tooth	Sinu //
+44 tongue	liSanu //
+47 knee	birku //
+48 hand	kX~atu, qatu //
+51 breast	irtu //
+53 liver	kabatu //
+54 drink	Satu //
+57 see	amaru //
+58 hear	Semu //
+61 die	matu //
+66 come	tX~eXu //
+72 sun	SamSu //
+74 star	kakabu //
+75 water	mu //
+77 stone	abnu //
+82 fire	iSatu //
+85 path	Xulu //
+86 mountain	Sadu //
+92 night	muSu //
+95 full	malu //
+96 new	eSu //
+100 name	Sumu //
+ASSYRIAN_NEO_ARAMAIC
+ 1   36.00   41.00      549420   nsy   aii
+1 I	anaku //
+2 you	ata, ati //
+3 we	anenu //
+11 one	edu //
+12 two	Sina //
+18 person	amelu, napultu //
+19 fish	nunu //
+21 dog	kalbu //
+22 louse	kalmutu //
+23 tree	esX~u, gapnu //
+25 leaf	dapu, hashaltu //
+28 skin	XXX //
+30 blood	amanu //
+31 bone	esX~entu //
+34 horn	qarnu //
+39 ear	hasisu //
+40 eye	enu, inu //
+41 nose	apu, nahiru //
+43 tooth	Sinu //
+44 tongue	liSanu //
+47 knee	birku, burku //
+48 hand	qatu, ritu //
+51 breast	irtu, sX~eretu //
+53 liver	amutu //
+54 drink	masitu, maSqitu //
+57 see	XXX //
+58 hear	Samu //
+61 die	puru //
+66 come	alaku //
+72 sun	SamSu, SanSu //
+74 star	kakubu //
+75 water	mame //
+77 stone	abatu, abnu //
+82 fire	anqulu, giru //
+85 path	daragu, geru //
+86 mountain	genu, hurSanu //
+92 night	muSitu, muSu //
+95 full	malX~u //
+96 new	eSu //
+100 name	nibitu //
+HEBREW
+ 1   31.50   34.83     5341800   hba   heb
+1 I	7ani //
+2 you	7ata, 7at //
+3 we	7anaXnu //
+11 one	7eXad //
+12 two	Snayim //
+18 person	7adam //
+19 fish	dag //
+21 dog	kelev //
+22 louse	parXoS //
+23 tree	Xec //
+25 leaf	Xale //
+28 skin	Xor //
+30 blood	dam //
+31 bone	Xecem //
+34 horn	keren //
+39 ear	7ozen //
+40 eye	Xayin //
+41 nose	7af //
+43 tooth	Sen //
+44 tongue	laSon //
+47 knee	berex //
+48 hand	yad //
+51 breast	Sad //
+53 liver	kaved //
+54 drink	Sata //
+57 see	ra7a //
+58 hear	SamaX //
+61 die	met //
+66 come	ba //
+72 sun	SemeS //
+74 star	koxav //
+75 water	mayim //
+77 stone	7even //
+82 fire	7eS //
+85 path	Svil //
+86 mountain	har //
+92 night	layla //
+95 full	male //
+96 new	xadaS //
+100 name	Sem //
+MALTESE
+ 1   35.92   14.42      482880   mlt   mlt
+1 I	yiEnE //
+2 you	inti //
+3 we	aXna //
+11 one	wiEXEt //
+12 two	tnEn //
+18 person	pErsuna //
+19 fish	Xuta //
+21 dog	kElp //
+22 louse	amla //
+23 tree	sijra //
+25 leaf	wEr7a //
+28 skin	jilda, oSra //
+30 blood	dEm //
+31 bone	Xadma //
+34 horn	arn //
+39 ear	widna //
+40 eye	Xan //
+41 nose	imniEXEr //
+43 tooth	sina //
+44 tongue	ilsiEn //
+47 knee	irkoba //
+48 hand	it //
+51 breast	sidEr //
+53 liver	fwiEt //
+54 drink	Sorp //
+57 see	ra //
+58 hear	tisma //
+61 die	tmut //
+66 come	tiji //
+72 sun	SEmS //
+74 star	kEwkba //
+75 water	ilma //
+77 stone	Xajra //
+82 fire	nar //
+85 path	modiya //
+86 mountain	muntany~a //
+92 night	lEl //
+95 full	mimli, smin //
+96 new	jdit //
+100 name	isEm //
+STANDARD_ARABIC
+ 1   25.00   42.00          -2   ams   arb
+1 I	EnE //
+2 you	EntE, Enti //
+3 we	nEnu //
+11 one	wEXid //
+12 two	i8nEni //
+18 person	SESX~, insEn //
+19 fish	sEmEk //
+21 dog	kElb //
+22 louse	XXX //
+23 tree	SEjErE //
+25 leaf	wErEqo //
+28 skin	bESErE, jild //
+30 blood	dEm //
+31 bone	XEzX~m //
+34 horn	XXX //
+39 ear	u8un //
+40 eye	XEin //
+41 nose	Emf, Enf //
+43 tooth	sin //
+44 tongue	lisEn //
+47 knee	rukbE //
+48 hand	yEd //
+51 breast	XXX //
+53 liver	kEbid //
+54 drink	SEribE //
+57 see	rE7E, yErE //
+58 hear	sEmiXE, istEmEXE //
+61 die	mEtE //
+66 come	jE7E //
+72 sun	SEms //
+74 star	nEjm //
+75 water	mE7 //
+77 stone	XEjEr //
+82 fire	nEr, XEriq //
+85 path	tX~oriq, dErb //
+86 mountain	jEbEl //
+92 night	lEilE //
+95 full	mEli7 //
+96 new	jEdid //
+100 name	ism //
+BAMBARA
+ 2   12.50   -7.50     4102320   bam   bam
+1 I	ne //
+2 you	XXX //
+3 we	anw, anelu //
+4 this	nin //
+5 that	XXX //
+6 who	jon //
+7 what	mun //
+8 not	XXX //
+9 all	XXX //
+10 many	ca, caman //
+11 one	kelen //
+12 two	fila //
+13 big	belebele //
+14 long	jan, jamanjan //
+15 small	dogon, ni //
+16 woman	muso //
+17 man	ke, ce //
+18 person	mogo //
+19 fish	jege //
+20 bird	kono //
+21 dog	XXX //
+22 louse	XXX //
+23 tree	jiri, yiri //
+24 seed	kise //
+25 leaf	fura //
+28 skin	wolo, golo //
+29 flesh	bu, sogo //
+30 blood	joli //
+31 bone	kolo //
+32 grease	tolo //
+33 egg	XXX //
+34 horn	XXX //
+35 tail	XXX //
+36 feather	XXX //
+37 hair	si //
+38 head	kunkolo //
+39 ear	XXX //
+40 eye	5e //
+41 nose	nun //
+42 mouth	da //
+43 tooth	5in //
+44 tongue	nen //
+45 claw	soni //
+46 foot	sen //
+47 knee	kunbere //
+48 hand	tege //
+49 belly	XXX //
+50 neck	kan //
+51 breast	sin //
+52 heart	dusukun, son //
+53 liver	bi5e //
+54 drink	minfen //
+55 eat	dun, dumo //
+56 bite	XXX //
+57 see	ye //
+58 hear	XXX //
+59 know	don //
+60 sleep	sunogo //
+61 die	sa, fatu //
+62 kill	faga //
+63 swim	XXX //
+64 fly	pan //
+65 walk	yala //
+66 come	na //
+67 lie	da //
+68 sit	sigi //
+69 stand	jo //
+70 give	ka ki ma, ka ni ma //
+71 say	fo, ko //
+72 sun	tile //
+73 moon	kalo //
+74 star	dolo //
+75 water	ji //
+76 rain	sanji //
+77 stone	XXX //
+78 sand	XXX //
+79 earth	XXX //
+80 cloud	sanfin //
+81 smoke	XXX //
+82 fire	tasuma //
+83 ash	bugurinj~e //
+84 burn	jeni //
+85 path	sira //
+86 mountain	nt~ugun //
+87 red	bilen //
+88 green	geren //
+89 yellow	XXX //
+90 white	je, jeman //
+91 black	fin //
+92 night	su //
+93 hot	gan //
+94 cold	nene, suman //
+95 full	XXX //
+96 new	kura //
+97 good	di, 5i //
+98 round	XXX //
+99 dry	ja, koskos //
+100 name	togo, jamu //
+YORUBA
+ 1    8.00    4.33    37726790   yor   yor
+1 I	emi //
+2 you	iwo //
+3 we	awa //
+11 one	oko*, okon //
+12 two	eji, meji //
+18 person	eni5o* //
+19 fish	Eja //
+21 dog	aja //
+22 louse	ino //
+23 tree	igi //
+25 leaf	ewe //
+28 skin	ara //
+30 blood	EjE //
+31 bone	egu*, egu*gu* //
+34 horn	iwo //
+39 ear	eti //
+40 eye	oju //
+41 nose	imu* //
+43 tooth	ehi* //
+44 tongue	aho* //
+47 knee	oroku* //
+48 hand	owo //
+51 breast	omu*, o5o* //
+53 liver	Edo //
+54 drink	mu* //
+57 see	ri //
+58 hear	gb~o //
+61 die	ku //
+66 come	wa //
+72 sun	oru* //
+74 star	irawo //
+75 water	omi //
+77 stone	okuta //
+82 fire	ino* //
+85 path	ono* //
+86 mountain	oke //
+92 night	alE //
+95 full	ku* //
+96 new	titu*, tutu* //
+100 name	oruko //
+WOLOF
+ 1   15.25  -16.00     5267290   wlf   wol
+1 I	man, ma //
+2 you	yow, ya //
+3 we	nun, nanu //
+11 one	ban5 //
+12 two	5ar //
+18 person	XXX //
+19 fish	Tan //
+21 dog	xaT //
+22 louse	XXX //
+23 tree	garap //
+25 leaf	XXX //
+28 skin	dar //
+30 blood	derat, d3m3 //
+31 bone	yax //
+34 horn	XXX //
+39 ear	nop3 //
+40 eye	b3t //
+41 nose	bakan //
+43 tooth	b35 //
+44 tongue	lami5 //
+47 knee	om //
+48 hand	loxo //
+51 breast	XXX //
+53 liver	XXX //
+54 drink	nan //
+57 see	gis //
+58 hear	dega //
+61 die	de //
+66 come	5ow //
+72 sun	Tent~3 //
+74 star	XXX //
+75 water	nd~ox //
+77 stone	doT, xar //
+82 fire	safara //
+85 path	yon //
+86 mountain	XXX //
+92 night	gudi //
+95 full	XXX //
+96 new	XXX //
+100 name	tur, sant~3 //
+BASQUE
+ 3   43.00   -3.00      537860   bqb   eus
+1 I	nik, neuk //
+2 you	zuek, hik //
+3 we	gu, guk //
+4 this	hauSe, honek //
+5 that	hori, hura //
+6 who	nork, norcuk //
+7 what	zer, zein //
+8 not	ez //
+9 all	guztiz, guztiak //
+10 many	asko, hamaikoCo //
+11 one	bat //
+12 two	bi, biga //
+13 big	haundi, handi //
+14 long	luze //
+15 small	Ciki, Sehe //
+16 woman	andre, emakume //
+17 man	gizon, gizaseme //
+18 person	gizaki, lagun //
+19 fish	arrain, arranca //
+20 bird	Cori //
+21 dog	zakur, Cakur //
+22 louse	zorri //
+23 tree	zuhaic, arbola //
+24 seed	bihi, hazi //
+25 leaf	hosto, orri //
+26 root	erreboil, sustrai //
+27 bark	azal //
+28 skin	azal, minc //
+29 flesh	haragi, okela //
+30 blood	odol //
+31 bone	hezur //
+32 grease	gancu, gurin //
+33 egg	arraulca //
+34 horn	adar, turutu //
+35 tail	buztan, isac //
+36 feather	luma //
+37 hair	ile, ilage //
+38 head	buru, kasko //
+39 ear	belarri //
+40 eye	begi, be //
+41 nose	sudur, mutur //
+42 mouth	aho, mutur //
+43 tooth	horc, hagin //
+44 tongue	mihi, hizkunca //
+45 claw	azkazal, hacazal //
+46 foot	oin, hanka //
+47 knee	belaun //
+48 hand	esku, bosteko //
+49 belly	sabel, tripa //
+50 neck	lepo, idun //
+51 breast	diti, bular //
+52 heart	bihoc, bihoz //
+53 liver	gibel //
+54 drink	edan //
+55 eat	yanari //
+56 bite	hozka, haginka //
+57 see	ikusi //
+58 hear	encun, adi //
+59 know	yakin, ezagu //
+60 sleep	lo, lotan //
+61 die	hil, azkenarnas //
+62 kill	hilarazi, sarraski //
+63 swim	igerika //
+64 fly	hegan, hegaz //
+65 walk	ibili, bide //
+66 come	etorri //
+67 lie	ecan //
+68 sit	yarri, mahaiera //
+69 stand	zutik, tinte //
+70 give	eman, oihuka //
+71 say	esan, minco izan //
+72 sun	eguzki, eki //
+73 moon	ilargi //
+74 star	izar, astro //
+75 water	ur //
+76 rain	euri //
+77 stone	harri, haic //
+78 sand	hondar, harea //
+79 earth	lurbira //
+80 cloud	hodei //
+81 smoke	pipaldi //
+82 fire	su, sute //
+83 ash	hauc, errauc //
+84 burn	erre, sumin //
+85 path	basabide, bideSka //
+86 mountain	mendi //
+87 red	gorri //
+88 green	orlegi, berde //
+89 yellow	hori //
+90 white	zuri //
+91 black	belc //
+92 night	gau, arrac //
+93 hot	bero, sukardun //
+94 cold	odolgabe, hoc //
+95 full	beterik, beteta //
+96 new	berri //
+97 good	on, zinco //
+98 round	biribil, totolo //
+99 dry	lehor, ihar //
+100 name	izen //
+ALBANIAN
+ 3   41.00   20.00     1869040   alb   als
+1 I	un3 //
+2 you	ju //
+3 we	ne //
+11 one	Ne //
+12 two	di //
+18 person	vet3, person, individ //
+19 fish	peSk //
+21 dog	Ten //
+22 louse	morr //
+23 tree	dru, pem3 //
+25 leaf	Tethe, flet3, kanat //
+28 skin	l3kur3, l3vore //
+30 blood	Tak //
+31 bone	aSt, koc, hal3 //
+34 horn	bri, bori //
+39 ear	veS, d3Tim, dorez3, kalli //
+40 eye	si, vrim3, filiTe, syth, Sikim //
+41 nose	hund3, nuhatye //
+43 tooth	8Emb, 8Emb3z //
+44 tongue	Tuh3, t3 folurit //
+47 knee	Tu //
+48 hand	dor3, pun3tor, akrep, pyes3marrye //
+51 breast	kraharor, Ti //
+53 liver	m3lCi //
+54 drink	pirye, got3 //
+57 see	Soh, Sikoy, v3 re, STuay, kuydesem, kuptoj //
+58 hear	d3gyoy, m3soy, marr veS, marr layme, letra //
+61 die	vdes, Nordh, viSk, Suay //
+66 come	viy //
+72 sun	dyell //
+74 star	ill //
+75 water	uj3 //
+77 stone	gur //
+82 fire	ndez, dyeg, Stie, T3lloy //
+85 path	Steg, rrug3 //
+86 mountain	mal //
+92 night	nat3 //
+95 full	e mbuSur plot me, i mbuSur plot me, i plot3, e plot3, plot3siSt, t3r3siSt, plot //
+96 new	i ri, e re, i fresk3t, e fresk3t //
+100 name	em3r, nam, fam3 //
+ARMENIAN
+ 2   40.00   45.00     3843000   arm   hye
+1 I	yEs //
+2 you	du //
+3 we	mEnkh~ //
+4 this	so, ays //
+5 that	da, oyd //
+6 who	wov //
+7 what	inCh~ //
+8 not	Ch~E //
+9 all	omEn inCh~ //
+10 many	XXX //
+11 one	mEk //
+12 two	yErku //
+13 big	mEc, XoSor //
+14 long	yErkor //
+15 small	p3stik, ph~okh~rik //
+16 woman	kin //
+17 man	morth~, t3Xomorth~ //
+18 person	morth~ //
+19 fish	cuk //
+20 bird	th~3rCh~un //
+21 dog	Sun //
+22 louse	woCh~il //
+23 tree	car //
+24 seed	sErm //
+25 leaf	tErEv //
+26 root	ormot //
+27 bark	kEXEv, hoCh~och~ //
+28 skin	moSk //
+29 flesh	mis //
+30 blood	aryun //
+31 bone	woskor //
+32 grease	Corp //
+33 egg	cu //
+34 horn	XXX //
+35 tail	poCh~ //
+36 feather	ph~Etur //
+37 hair	moz //
+38 head	g3luX //
+39 ear	oko5j //
+40 eye	oCh~kh~ //
+41 nose	kh~ith~ //
+42 mouth	bEran //
+43 tooth	atam //
+44 tongue	lEzu //
+45 claw	yEXuNkh~ //
+46 foot	wotkh~ //
+47 knee	cuNk //
+48 hand	cErkh~ //
+49 belly	ph~or, worovoyn //
+50 neck	viz, poronoch~ //
+51 breast	coch~ //
+52 heart	sirt //
+53 liver	lyorth~ //
+54 drink	X3mEl //
+55 eat	utEl //
+56 bite	k3cEl //
+57 see	tEsnEl //
+58 hear	l3sEl //
+59 know	imanal //
+60 sleep	kh~3nEl //
+61 die	mErnEl, voXConvEl //
+62 kill	3sponEl //
+63 swim	loXol //
+64 fly	th~3rCh~El //
+65 walk	kh~oylEl //
+66 come	gol //
+67 lie	3stEl //
+68 sit	n3stEl //
+69 stand	koNkh~nEl //
+70 give	tol //
+71 say	osEl //
+72 sun	orEv //
+73 moon	lusin //
+74 star	ast3x //
+75 water	jur //
+76 rain	ancrEv //
+77 stone	kh~or //
+78 sand	ovoz //
+79 earth	hoX //
+80 cloud	amp //
+81 smoke	cux //
+82 fire	krak, h3rth~Eh //
+83 ash	moXir //
+84 burn	oyrvEl //
+85 path	orohEt //
+86 mountain	lEr //
+87 red	karmir //
+88 green	kanaCh~ //
+89 yellow	dExin //
+90 white	3spitok //
+91 black	sEv //
+92 night	giSEr //
+93 hot	tokh~, jErm //
+94 cold	ch~urt //
+95 full	li, likh~3 //
+96 new	nor //
+97 good	lov //
+98 round	k3lor //
+99 dry	ch~omokh~ //
+100 name	anun //
+WESTERN_ARMENIAN
+ 1   38.50   43.50     1395240   arw   hyw
+1 I	yes //
+2 you	tun //
+3 we	menk, meNk //
+11 one	meg //
+12 two	yergu //
+18 person	anc, mart //
+19 fish	cug //
+21 dog	Sun //
+22 louse	voCil //
+23 tree	car //
+25 leaf	derev //
+28 skin	maSg, gaSi //
+30 blood	ary~un //
+31 bone	vosgor //
+34 horn	boz, godoS //
+39 ear	aganC //
+40 eye	aCk //
+41 nose	kit //
+43 tooth	agra, adam //
+44 tongue	lezu //
+47 knee	cung, cuNg //
+48 hand	cerk //
+51 breast	gurck, cic //
+53 liver	ly~art //
+54 drink	x3me //
+57 see	desne //
+58 hear	l3se //
+61 die	merni, merac //
+66 come	ka //
+72 sun	arev //
+74 star	asd3x //
+75 water	Cur //
+77 stone	kar, Zar //
+82 fire	grag //
+85 path	jampa, arahed //
+86 mountain	ler, p3lur //
+92 night	kiSer //
+95 full	lecun, li //
+96 new	nor //
+100 name	anun //
+LATVIAN
+ 2   57.00   24.00     1551920   lat   lvs
+1 I	es //
+2 you	tu, yus //
+3 we	mes //
+4 this	Sis //
+5 that	tas //
+6 who	kurS //
+7 what	kas //
+8 not	ne //
+9 all	viss //
+10 many	dauc //
+11 one	viens //
+12 two	divi //
+13 big	liels //
+14 long	garS //
+15 small	marzs //
+16 woman	sieviete //
+17 man	virietes //
+18 person	cilveks //
+19 fish	zivs //
+20 bird	putns //
+21 dog	suns //
+22 louse	uc //
+23 tree	koks //
+24 seed	sekla //
+25 leaf	lapa //
+26 root	sakne //
+27 bark	miza //
+28 skin	ada //
+29 flesh	gaLa, miesa //
+30 blood	asinis //
+31 bone	kauls //
+32 grease	tauki //
+33 egg	ola //
+34 horn	rags //
+35 tail	aste //
+36 feather	spalva //
+37 hair	mac //
+38 head	galva //
+39 ear	auss //
+40 eye	acs //
+41 nose	deguns //
+42 mouth	mute //
+43 tooth	zobs //
+44 tongue	mele //
+45 claw	nags //
+46 foot	peda //
+47 knee	celis //
+48 hand	roka //
+49 belly	veders //
+50 neck	kakls //
+51 breast	kruc //
+52 heart	sirds //
+53 liver	aknas //
+54 drink	cer //
+55 eat	es //
+56 bite	kos //
+57 see	rece //
+58 hear	cirde //
+59 know	zina //
+60 sleep	gule, duse //
+61 die	mir //
+62 kill	nogalina //
+63 swim	pelde //
+64 fly	lido //
+65 walk	ie //
+66 come	nak //
+67 lie	gule //
+68 sit	sede, ses //
+69 stand	stave, sta //
+70 give	do //
+71 say	teik, saci //
+72 sun	saule //
+73 moon	meness //
+74 star	zvaigzne //
+75 water	udens //
+76 rain	lietus //
+77 stone	akmens //
+78 sand	smiltis //
+79 earth	zeme, augsne //
+80 cloud	makonis //
+81 smoke	dumi //
+82 fire	uguns //
+83 ash	pelni //
+84 burn	deg //
+85 path	ceLS //
+86 mountain	kalns //
+87 red	sarkans //
+88 green	zaLS //
+89 yellow	celtens //
+90 white	balc //
+91 black	melns //
+92 night	nakc //
+93 hot	silc //
+94 cold	auksc //
+95 full	pilns //
+96 new	yauns //
+97 good	labs //
+98 round	apaLS //
+99 dry	sauss //
+100 name	vards, nosaukums //
+LITHUANIAN
+ 1   55.00   24.00     2979700   lit   lit
+1 I	aS //
+2 you	yus, tu //
+3 we	mes //
+4 this	Sitas //
+5 that	anas, tas //
+6 who	kas, kuris //
+7 what	kas //
+8 not	ne //
+9 all	visas, visi //
+10 many	daugelis //
+11 one	vienas //
+12 two	du, div //
+13 big	didelis, platus //
+14 long	ilgas, letas //
+15 small	maZas, maZutis //
+16 woman	moteris //
+17 man	Zmogus //
+18 person	asmuo, Zmogus //
+19 fish	Zuvis //
+20 bird	paukStis //
+21 dog	Suo //
+22 louse	utele //
+23 tree	medis //
+24 seed	sekla, grudas //
+25 leaf	lapas //
+26 root	Saknis //
+27 bark	Zieve //
+28 skin	oda, kailis //
+29 flesh	mesa, kunas //
+30 blood	krauyas, giminy~ste //
+31 bone	kaulas //
+32 grease	taukai, riebalai //
+33 egg	kiauSinis //
+34 horn	ragas //
+35 tail	uodega, eile //
+36 feather	plunksna //
+37 hair	plaukas //
+38 head	galva //
+39 ear	ausis //
+40 eye	akis //
+41 nose	nosis, nuyautimas //
+42 mouth	burna //
+43 tooth	dantis //
+44 tongue	lieZuvis //
+45 claw	nagas //
+46 foot	koya, peda //
+47 knee	kelis //
+48 hand	ranka //
+49 belly	pilvas, skramdis //
+50 neck	kaklas //
+51 breast	krutine //
+52 heart	Sirdis //
+53 liver	kepeny~s //
+54 drink	ger, girtau //
+55 eat	valgy~, iSes //
+56 bite	kas, gel //
+57 see	maty~, Ziure //
+58 hear	girde, iSklausy~ti //
+59 know	Zino, paZin //
+60 sleep	miegas //
+61 die	mir //
+62 kill	uZmuS, nuZudy~ //
+63 swim	plaukio //
+64 fly	skris, pralek //
+65 walk	ei, vaikSCio //
+66 come	atei, atvy~k //
+67 lie	gule, bu //
+68 sit	sede, posedZiau //
+69 stand	stove, atsisto //
+70 give	duo, dovano //
+71 say	nuomone, Zodis //
+72 sun	saule //
+73 moon	menulis //
+74 star	ZvaigZde, Sviesuly~s //
+75 water	vanduo //
+76 rain	lietus //
+77 stone	akmuo //
+78 sand	smely~s //
+79 earth	Zeme //
+80 cloud	debesy~s //
+81 smoke	dumai //
+82 fire	ugnis, liepsna //
+83 ash	pelenai //
+84 burn	deg //
+85 path	takas, kelelis //
+86 mountain	kalnas //
+87 red	raudonas, paraudes //
+88 green	Zalias, nesubrendes //
+89 yellow	geltonas //
+90 white	baltas //
+91 black	yuodas, tamsus //
+92 night	naktis //
+93 hot	karStas //
+94 cold	Saltas, abeyingas //
+95 full	pilnas, visas //
+96 new	nauyas, SvieZias //
+97 good	geras, malonus //
+98 round	apskritas, apvalus //
+99 dry	sausas //
+100 name	vardas //
+BRETON
+ 2   48.00   -3.00      206000   bre   bre
+1 I	mE //
+2 you	tE //
+3 we	ni //
+11 one	inan //
+12 two	dau //
+18 person	dEn //
+19 fish	pEsk //
+21 dog	ki //
+22 louse	lau //
+23 tree	gw~EzEn //
+25 leaf	dElien //
+28 skin	kroxEn //
+30 blood	gw~ad //
+31 bone	askorn //
+34 horn	korn //
+39 ear	skuarn //
+40 eye	lagad //
+41 nose	fri //
+43 tooth	dant //
+44 tongue	ted //
+47 knee	glin //
+48 hand	dorn //
+51 breast	bron //
+53 liver	avu //
+54 drink	Evo* //
+57 see	gw~ElEt //
+58 hear	klEvEt, klEfEt //
+61 die	mErvEl, mErfEl //
+66 come	dont //
+72 sun	hel //
+74 star	stErEdEn //
+75 water	dur //
+77 stone	men //
+82 fire	tan //
+85 path	hEnt //
+86 mountain	mEnEz //
+92 night	noz //
+95 full	len //
+96 new	nEvEz //
+100 name	anv, anf //
+GAELIC_SCOTTISH
+ 1   57.00   -4.00       60130   gae   gla
+1 I	mi //
+2 you	hu //
+3 we	Si5 //
+11 one	unx~ //
+12 two	ta //
+18 person	tu5E //
+19 fish	i3sk //
+21 dog	kh~u //
+22 louse	my~i3l //
+23 tree	kh~rx~uv //
+25 leaf	tuLak //
+28 skin	kh~rx~akhy$enx~, kh~rx~aTh~enx~ //
+30 blood	fuL //
+31 bone	kh~nx~av //
+34 horn	axarx~xk~ //
+39 ear	kh~lu3s //
+40 eye	suL //
+41 nose	srx~onx~ //
+43 tooth	fy~3kh~EL //
+44 tongue	Ch~aNga //
+47 knee	klunx~ //
+48 hand	lav //
+51 breast	khy$ix, Th~ix //
+53 liver	axa //
+54 drink	ol //
+57 see	fakhy$ //
+58 hear	kh~lu5 //
+61 die	pasEx //
+66 come	hy~iky~, hy~iT //
+72 sun	krx~i3nx~ //
+74 star	rx~iu*nx~aky~, rx~iu*nx~aT //
+75 water	uSky~E, uSTE //
+77 stone	kh~lax //
+82 fire	Ch~e5E //
+85 path	rx~ahaj //
+86 mountain	py~enx~ //
+92 night	oxE //
+95 full	lanx~ //
+96 new	urx~, nx~u3y //
+100 name	a53m //
+IRISH
+ 1   53.00   -8.00      169240   ird   gle
+1 I	my~e, my~iS3 //
+2 you	tu, tus3 //
+3 we	Siny~ //
+4 this	So //
+5 that	Siny~ //
+6 who	Te //
+7 what	kad, Terd //
+8 not	ny~i, xa //
+9 all	gax rud //
+10 many	XXX //
+11 one	in //
+12 two	ga //
+13 big	mor //
+14 long	fad3 //
+15 small	by~Eg //
+16 woman	by~an //
+17 man	fy~ar //
+18 person	diny~3 //
+19 fish	i3sk //
+20 bird	en //
+21 dog	madr3 //
+22 louse	my~il //
+23 tree	kran //
+24 seed	Sil //
+25 leaf	dily~3, dily~og //
+26 root	rut3, fy~ry~ev //
+27 bark	korty~, kraT3n //
+28 skin	Tny~as, kraT3n //
+29 flesh	fy~oly~ //
+30 blood	fily~ //
+31 bone	knav //
+32 grease	saly~, my~ehr3s //
+33 egg	uv //
+34 horn	airk //
+35 tail	Ery~3b3l //
+36 feather	Tly~Ety~3 //
+37 hair	gru3C //
+38 head	Tan //
+39 ear	klu3s //
+40 eye	suly~ //
+41 nose	sok //
+42 mouth	by~el //
+43 tooth	fy~i3k3ly~ //
+44 tongue	ty~aNg3 //
+45 claw	iNg3 //
+46 foot	kos, troC //
+47 knee	gluny~ //
+48 hand	lav //
+49 belly	bol3g //
+50 neck	miny~al //
+51 breast	Tix //
+52 heart	kri //
+53 liver	e //
+54 drink	ol //
+55 eat	ih //
+56 bite	bany~ Cry~Emy~ as //
+57 see	fy~ET //
+58 hear	kliny~ //
+59 know	ta 3 his EC //
+60 sleep	kod3ly~ //
+61 die	eg, faC bas //
+62 kill	mari //
+63 swim	snav //
+64 fly	Ety~3ly~ //
+65 walk	Suly~ //
+66 come	tar //
+67 lie	liC //
+68 sit	siC //
+69 stand	Sas //
+70 give	tury~ //
+71 say	ab3ry~ //
+72 sun	Cry~i3n //
+73 moon	re, Calax //
+74 star	riny~, relt3 //
+75 water	iST3 //
+76 rain	baSty~3x, fy~arh3ny~ //
+77 stone	klox //
+78 sand	gany~3v //
+79 earth	Try~e, ih3ry~ //
+80 cloud	ny~el, skam3l //
+81 smoke	toty~, dy~at3x //
+82 fire	ty~iny~3 //
+83 ash	lu3 //
+84 burn	doC //
+85 path	kosan, kon3ry~ //
+86 mountain	Sly~i3v //
+87 red	dy~ar3g //
+88 green	glas, u3ny~3 //
+89 yellow	bi //
+90 white	ban //
+91 black	duv //
+92 night	iS3 //
+93 hot	ty~E //
+94 cold	fu3r //
+95 full	lan //
+96 new	ur, nu3 //
+97 good	mah //
+98 round	kriny~ //
+99 dry	ty~iry~3my~ //
+100 name	any~3my~ //
+MANX
+ 1   54.17   -4.50       -1974   mnx   glv
+1 I	me //
+2 you	Siu //
+3 we	Sin //
+11 one	un, nen //
+12 two	de, jis //
+18 person	du53 //
+19 fish	yis //
+21 dog	ma83 //
+22 louse	mil //
+23 tree	bily3 //
+25 leaf	dolyag //
+28 skin	krax3n //
+30 blood	fol //
+31 bone	krew //
+34 horn	eak //
+39 ear	kleS //
+40 eye	suly //
+41 nose	strui5, strai5 //
+43 tooth	fix3l //
+44 tongue	Ci53 //
+47 knee	glyu5 //
+48 hand	l3w //
+51 breast	kix //
+53 liver	en //
+54 drink	iu //
+57 see	fakin //
+58 hear	klaStin //
+61 die	ge8in bes //
+66 come	Cit //
+72 sun	grin //
+74 star	roleg //
+75 water	uSty3 //
+77 stone	klax //
+82 fire	ail, Ce53 //
+85 path	red, rad //
+86 mountain	slyu, Slyu //
+92 night	ei, i //
+95 full	lan //
+96 new	noa //
+100 name	en3m //
+WELSH
+ 1   52.00   -3.00      570320   wec   cym
+1 I	mi //
+2 you	ti //
+3 we	ni //
+11 one	3n //
+12 two	da3, du3 //
+18 person	d3n, gur //
+19 fish	p3sgod3n, p3sgod //
+21 dog	ki //
+22 louse	L33En //
+23 tree	prEn, ko3dEn //
+25 leaf	d3ilEn, dalEn //
+28 skin	kro3n //
+30 blood	gw~a3d //
+31 bone	asgurn //
+34 horn	korn //
+39 ear	kl3st //
+40 eye	L3gad //
+41 nose	tru3n //
+43 tooth	dant //
+44 tongue	tavod //
+47 knee	glin //
+48 hand	Lau //
+51 breast	bron, du3vron //
+53 liver	ia3, av3 //
+54 drink	3vE //
+57 see	gw~El, kanvo //
+58 hear	kl3uE //
+61 die	maru //
+66 come	do, d3vo //
+72 sun	ha3l //
+74 star	sErEn //
+75 water	dur, duvr //
+77 stone	karEg, ma3n //
+82 fire	ton //
+85 path	Lu3br //
+86 mountain	m3n38 //
+92 night	nos //
+95 full	Laun //
+96 new	nEu38 //
+100 name	Enu //
+AFRIKAANS
+ 2  -31.00   22.00     7225880   afr   afr
+1 I	Ek //
+2 you	y3i //
+3 we	o*s //
+11 one	en //
+12 two	tw~e //
+18 person	mE*s //
+19 fish	fis //
+21 dog	hont //
+22 louse	lEis //
+23 tree	bom //
+25 leaf	blor //
+28 skin	fEl //
+30 blood	blut //
+31 bone	ben //
+34 horn	horiN //
+39 ear	or //
+40 eye	ox //
+41 nose	nes //
+43 tooth	tant //
+44 tongue	toN //
+47 knee	kni //
+48 hand	hant //
+51 breast	bors //
+53 liver	lev3r //
+54 drink	driNk //
+57 see	sin //
+58 hear	hor //
+61 die	stErf, dotx~an //
+66 come	kom //
+72 sun	son //
+74 star	stEr //
+75 water	vat3r //
+77 stone	klip //
+82 fire	fur //
+85 path	pat //
+86 mountain	bErk //
+92 night	nax //
+95 full	fol //
+96 new	nut, nuv3 //
+100 name	nam //
+DANISH
+ 1   56.00   10.00     5621380   dsh   dan
+1 I	yEy //
+2 you	du //
+3 we	vi //
+11 one	e7n //
+12 two	to7 //
+18 person	mEnsk3 //
+19 fish	fesk //
+21 dog	hun7 //
+22 louse	lus //
+23 tree	trE7 //
+25 leaf	blE8 //
+28 skin	hu87 //
+30 blood	blo87 //
+31 bone	ben //
+34 horn	ho7an //
+39 ear	ea //
+40 eye	ay3 //
+41 nose	nEs3 //
+43 tooth	tEn7 //
+44 tongue	toN3 //
+47 knee	knE7 //
+48 hand	han7 //
+51 breast	brest //
+53 liver	lewa //
+54 drink	drEg3 //
+57 see	se7 //
+58 hear	hea //
+61 die	de7 //
+66 come	kam3 //
+72 sun	sol //
+74 star	styEan3 //
+75 water	vEn7 //
+77 stone	sten //
+82 fire	il7 //
+85 path	sti7 //
+86 mountain	by~Ew7 //
+92 night	nEt //
+95 full	ful7 //
+96 new	ni7 //
+100 name	naw7n //
+DUTCH
+ 1   52.50    6.00    23025430   dbr   nld
+1 I	ik //
+2 you	yEi, y3 //
+3 we	vEi, v3 //
+11 one	en //
+12 two	tve //
+18 person	%pErson, mEns //
+19 fish	vis //
+21 dog	hont //
+22 louse	l3is //
+23 tree	bom //
+25 leaf	blat //
+28 skin	h3id, vEl //
+30 blood	blut //
+31 bone	ben //
+34 horn	horn //
+39 ear	or //
+40 eye	oX //
+41 nose	nes //
+43 tooth	tant //
+44 tongue	toN //
+47 knee	kni //
+48 hand	hant //
+51 breast	borst //
+53 liver	lev3r //
+54 drink	driNk3n //
+57 see	zin //
+58 hear	hor3n //
+61 die	stErv3n //
+66 come	kom3n //
+72 sun	zon //
+74 star	ster //
+75 water	vat3r //
+77 stone	sten //
+82 fire	vir //
+85 path	pat, vEx //
+86 mountain	bErx //
+92 night	nat //
+95 full	vol //
+96 new	niu //
+100 name	nam //
+ENGLISH
+ 1   52.00    0.00   378250540   eng   eng
+1 I	Ei //
+2 you	yu //
+3 we	wi //
+4 this	8is //
+5 that	8Et //
+6 who	hu //
+7 what	wh~at //
+8 not	nat //
+9 all	ol //
+10 many	mini //
+11 one	w3n //
+12 two	tu //
+13 big	big //
+14 long	loN //
+15 small	smal, litl //
+16 woman	wum3n //
+17 man	mEn //
+18 person	%prs3n //
+19 fish	fiS //
+20 bird	b3rd //
+21 dog	dag //
+22 louse	laus //
+23 tree	tri //
+24 seed	sid //
+25 leaf	lif //
+26 root	rut //
+27 bark	%bark //
+28 skin	%skin //
+29 flesh	flES, mit //
+30 blood	bl3d //
+31 bone	bon //
+32 grease	%gris //
+33 egg	%eg //
+34 horn	horn //
+35 tail	tel //
+36 feather	fE8r //
+37 hair	hEr //
+38 head	hEd //
+39 ear	ir //
+40 eye	Ei //
+41 nose	noz //
+42 mouth	mau8 //
+43 tooth	tu8 //
+44 tongue	t3N //
+45 claw	klo //
+46 foot	fut //
+47 knee	ni //
+48 hand	hEnd //
+49 belly	bEli //
+50 neck	nEk //
+51 breast	brEst //
+52 heart	hart //
+53 liver	liv3r //
+54 drink	driNk //
+55 eat	it //
+56 bite	bEit //
+57 see	si //
+58 hear	hir //
+59 know	no //
+60 sleep	slip //
+61 die	dEi //
+62 kill	kil //
+63 swim	swim //
+64 fly	flEi //
+65 walk	wok //
+66 come	k3m //
+67 lie	lEi //
+68 sit	sit //
+69 stand	stEnd //
+70 give	%giv //
+71 say	sei //
+72 sun	s3n //
+73 moon	mun //
+74 star	star //
+75 water	wat3r //
+76 rain	rein //
+77 stone	ston //
+78 sand	sEnd //
+79 earth	3r8 //
+80 cloud	klaud //
+81 smoke	smok //
+82 fire	fEir //
+83 ash	ES //
+84 burn	b3rn //
+85 path	pE8 //
+86 mountain	%maunt3n //
+87 red	rEd //
+88 green	grin //
+89 yellow	yElo //
+90 white	wh~Eit //
+91 black	blEk //
+92 night	nEit //
+93 hot	hat //
+94 cold	kold //
+95 full	ful //
+96 new	nu //
+97 good	gud //
+98 round	%rawnd //
+99 dry	drEi //
+100 name	nem //
+FAROESE
+ 1   62.00   -7.00       69000   far   fao
+1 I	Eg //
+2 you	ti //
+3 we	vit //
+11 one	oin, oit //
+12 two	tvoir, tvEi //
+18 person	mEdn~iSa //
+19 fish	fiskur //
+21 dog	hundur //
+22 louse	lis //
+23 tree	trEa //
+25 leaf	bla //
+28 skin	Sidn~ //
+30 blood	ble //
+31 bone	boin //
+34 horn	hodn~ //
+39 ear	oira //
+40 eye	Eiga //
+41 nose	nes //
+43 tooth	todn~ //
+44 tongue	tuNga //
+47 knee	kh~nEa //
+48 hand	hond //
+51 breast	brest //
+53 liver	livur //
+54 drink	drekh~a //
+57 see	suigy~a //
+58 hear	hoira //
+61 die	doigy~a //
+66 come	kh~oma //
+72 sun	sel //
+74 star	Serna //
+75 water	vatn //
+77 stone	stoinur //
+82 fire	Eldur //
+85 path	geta, vEgur //
+86 mountain	fy~adl~ //
+92 night	not //
+95 full	fudl~ur //
+96 new	nuigy~ur //
+100 name	navn~, nam //
+GOTHIC
+ 1   43.22   25.62          -2         got
+1 I	ik //
+2 you	8u //
+3 we	wis //
+11 one	Ens //
+12 two	tw~E //
+18 person	mana //
+19 fish	fisks //
+21 dog	hunds //
+22 louse	XXX //
+23 tree	bagms, triu //
+25 leaf	laufs //
+28 skin	fil //
+30 blood	blo8 //
+31 bone	XXX //
+34 horn	horn //
+39 ear	auso //
+40 eye	auxo //
+41 nose	XXX //
+43 tooth	tun8us //
+44 tongue	tuNgo //
+47 knee	kniu //
+48 hand	handus //
+51 breast	brusts, barms //
+53 liver	XXX //
+54 drink	driNkan //
+57 see	sEhw~an //
+58 hear	hausy~an //
+61 die	diwan, dau8nan //
+66 come	kw~iman //
+72 sun	sauil, suno //
+74 star	stErno //
+75 water	wato, ahw~a //
+77 stone	stains, halus //
+82 fire	fon, hauri //
+85 path	staixa, wigs //
+86 mountain	fErguni, bErgs //
+92 night	nats //
+95 full	fuls //
+96 new	niuyis //
+100 name	namo //
+ICELANDIC
+ 1   65.00  -17.00      321040   ice   isl
+1 I	yEx //
+2 you	8u //
+3 we	vi8 //
+11 one	eitn~ //
+12 two	th~veir //
+18 person	manEsTa //
+19 fish	fiskir //
+21 dog	hintir //
+22 louse	lus //
+23 tree	th~ry~E //
+25 leaf	pla8 //
+28 skin	hu8, sTin //
+30 blood	plou8 //
+31 bone	pein //
+34 horn	hortn~ //
+39 ear	eira //
+40 eye	eixa //
+41 nose	nev //
+43 tooth	th~En //
+44 tongue	th~uNka //
+47 knee	hny~E //
+48 hand	hEnt //
+51 breast	pry~oust //
+53 liver	livir //
+54 drink	trEka //
+57 see	sy~au //
+58 hear	heira //
+61 die	teiya //
+66 come	kh~oma //
+72 sun	soul //
+74 star	sty~artn~a //
+75 water	vatn~ //
+77 stone	steitn~ //
+82 fire	Eltir, paul //
+85 path	stixir, kata //
+86 mountain	fy~atl, fEtl //
+92 night	nout //
+95 full	fitlir //
+96 new	nir //
+100 name	navn //
+NORTHERN_LOW_SAXON
+ 1   53.10    8.78      301000   lge   nds
+1 I	ik //
+2 you	du //
+3 we	vi //
+11 one	en //
+12 two	tve //
+18 person	minS //
+19 fish	fiS //
+21 dog	hunt //
+22 louse	lus //
+23 tree	bom //
+25 leaf	blat //
+28 skin	hut //
+30 blood	blot //
+31 bone	knok3n, knak3n //
+34 horn	horn, hurn //
+39 ear	or, ur //
+40 eye	ok //
+41 nose	nes, nEs //
+43 tooth	ten, tEn //
+44 tongue	tuN //
+47 knee	kne //
+48 hand	hant //
+51 breast	borst3n, bost //
+53 liver	lev3r, lEv3r //
+54 drink	driNk //
+57 see	ze //
+58 hear	her, hir //
+61 die	starv, dotbliv //
+66 come	kam, kom //
+72 sun	zin //
+74 star	stern, stirn //
+75 water	vat3r, vot3r //
+77 stone	sten //
+82 fire	fi3r, fir //
+85 path	pat //
+86 mountain	bark //
+92 night	nat //
+95 full	ful, fol //
+96 new	ne, ni //
+100 name	nam, nom //
+NORWEGIAN_BOKMAAL
+ 1   61.00    8.00     5189940         nor
+1 I	yEi //
+2 you	d3 //
+3 we	vi //
+11 one	En, Et //
+12 two	tu //
+18 person	mEnesk3 //
+19 fish	fisk //
+21 dog	h3nd //
+22 louse	l3s //
+23 tree	tre //
+25 leaf	blod //
+28 skin	h3d, Sin //
+30 blood	blud //
+31 bone	bEin //
+34 horn	horn, hon //
+39 ear	er3 //
+40 eye	ey3 //
+41 nose	nes3 //
+43 tooth	ton //
+44 tongue	t3N3 //
+47 knee	kne //
+48 hand	hond //
+51 breast	briN3, brist //
+53 liver	lev3r //
+54 drink	drik3 //
+57 see	se //
+58 hear	her3, lit3 //
+61 die	de //
+66 come	kom3 //
+72 sun	sol //
+74 star	sty~Ern3, sCErn3 //
+75 water	von //
+77 stone	stEin //
+82 fire	ild //
+85 path	vEi, sti //
+86 mountain	bErg, fy~El //
+92 night	not //
+95 full	f3l, f3lt //
+96 new	ni //
+100 name	navn //
+STANDARD_GERMAN
+ 1   52.00   10.00    76029280   gbl   deu
+1 I	ix //
+2 you	du //
+3 we	vir //
+11 one	ains //
+12 two	cvai //
+18 person	mEnS //
+19 fish	fiS //
+21 dog	hunt //
+22 louse	laus //
+23 tree	baum //
+25 leaf	blat //
+28 skin	haut //
+30 blood	blut //
+31 bone	knoX3n //
+34 horn	horn //
+39 ear	or //
+40 eye	aug3 //
+41 nose	naz3 //
+43 tooth	ch~an //
+44 tongue	ch~uN3 //
+47 knee	kni //
+48 hand	hant //
+51 breast	brust //
+53 liver	leb3r //
+54 drink	triNk3n //
+57 see	ze3n //
+58 hear	her3n //
+61 die	Sterb3n //
+66 come	kh~om3n //
+72 sun	zon3 //
+74 star	StErn //
+75 water	vas3r //
+77 stone	Stain //
+82 fire	foia //
+85 path	pf~at, vek //
+86 mountain	bErk //
+92 night	naXt //
+95 full	fol //
+96 new	noi //
+100 name	nam3 //
+SWEDISH
+ 1   60.00   15.00     9606320   swe   swe
+1 I	yog //
+2 you	du //
+3 we	vi //
+11 one	et //
+12 two	tv~o //
+18 person	mEniSxE //
+19 fish	fisk //
+21 dog	h3nd~ //
+22 louse	lus //
+23 tree	trEd //
+25 leaf	lev //
+28 skin	Sx~in //
+30 blood	bl~ud //
+31 bone	ben //
+34 horn	hun //
+39 ear	3rE //
+40 eye	3gE //
+41 nose	nEsE //
+43 tooth	tEnd~ //
+44 tongue	t3NE //
+47 knee	knE //
+48 hand	hEnd~ //
+51 breast	brEst //
+53 liver	lev3r //
+54 drink	drikE //
+57 see	se //
+58 hear	hurE //
+61 die	de //
+66 come	komE //
+72 sun	sul //
+74 star	Sx~EnE //
+75 water	vEt3n //
+77 stone	sten //
+82 fire	eld //
+85 path	stig //
+86 mountain	bEry~ //
+92 night	nEt //
+95 full	f3l //
+96 new	ni //
+100 name	nEmn //
+GREEK
+ 2   39.00   22.00    13098380   grk   ell
+1 I	exo //
+2 you	esi //
+3 we	emis //
+11 one	enas, ena //
+12 two	8y~o, 8io //
+18 person	an8~ropos //
+19 fish	psari //
+21 dog	sTili, sTilos //
+22 louse	psira //
+23 tree	8end~ro //
+25 leaf	filo //
+28 skin	petsi, 8erma //
+30 blood	ema //
+31 bone	kokalo, osto //
+34 horn	Terato, Teras //
+39 ear	afti //
+40 eye	mati, of8almos //
+41 nose	miti //
+43 tooth	8ond~i //
+44 tongue	xlosa //
+47 knee	xonato //
+48 hand	xeri //
+51 breast	sti8os, mastos //
+53 liver	sikoti, ipar //
+54 drink	pin //
+57 see	vlep //
+58 hear	aku //
+61 die	pe8en, ap //
+66 come	erx~o //
+72 sun	ily~os, iLos //
+74 star	asteri, astro //
+75 water	nero //
+77 stone	petra //
+82 fire	foty~a //
+85 path	8romos //
+86 mountain	vuno, oros //
+92 night	nita //
+95 full	yematos, pliris //
+96 new	neos, Tenury~os //
+100 name	onoma //
+GREEK_ANCIENT
+ 1   39.00   22.00          -2         grc
+1 I	ego //
+2 you	si //
+3 we	Emeis //
+11 one	heis, mia //
+12 two	dio //
+18 person	anth~ropos, anEr //
+19 fish	ikh~th~is //
+21 dog	kion //
+22 louse	ph~th~eir //
+23 tree	dendron //
+25 leaf	ph~ilon //
+28 skin	kh~ros, derma //
+30 blood	haima //
+31 bone	oston //
+34 horn	keras //
+39 ear	os //
+40 eye	oph~th~almos, oma //
+41 nose	rh~is //
+43 tooth	odos //
+44 tongue	glota, glosa //
+47 knee	goni //
+48 hand	kh~eir //
+51 breast	sternon, stEth~os //
+53 liver	hEpar //
+54 drink	pinein //
+57 see	horan, blepein //
+58 hear	akoein //
+61 die	apoth~nEiskein, teleutan //
+66 come	erkh~esth~ai //
+72 sun	hElios //
+74 star	astEr, astron //
+75 water	hidor //
+77 stone	lith~os, petra //
+82 fire	pir //
+85 path	odos, atrapos //
+86 mountain	oros //
+92 night	niks //
+95 full	pestos, pleos //
+96 new	neos, kainos //
+100 name	onoma, doksa //
+BHOJPURI
+ 1   26.00   84.00    39445300   bho   bho
+1 I	ham //
+2 you	tu //
+3 we	haman //
+11 one	ek //
+12 two	dui //
+18 person	XXX //
+19 fish	XXX //
+21 dog	kukur //
+22 louse	dh~il //
+23 tree	per //
+25 leaf	pat //
+28 skin	bokala //
+30 blood	XXX //
+31 bone	har //
+34 horn	si*gh~i //
+39 ear	kan //
+40 eye	akh~i //
+41 nose	nak //
+43 tooth	da*t //
+44 tongue	jibh~i //
+47 knee	XXX //
+48 hand	hath~ //
+51 breast	XXX //
+53 liver	XXX //
+54 drink	pi //
+57 see	dekh~ //
+58 hear	XXX //
+61 die	XXX //
+66 come	a //
+72 sun	suruj //
+74 star	XXX //
+75 water	pani //
+77 stone	path~al //
+82 fire	agi //
+85 path	rah //
+86 mountain	XXX //
+92 night	rati //
+95 full	XXX //
+96 new	XXX //
+100 name	na*u* //
+HINDI
+ 1   25.00   77.00   260004650   hin   hin
+1 I	mai* //
+2 you	tu, ap //
+3 we	ham //
+4 this	yeh, is //
+5 that	voh, us //
+6 who	kaun //
+7 what	ky~a //
+8 not	nahi* //
+9 all	sab, sara //
+10 many	bahut, zy~ada //
+11 one	ek //
+12 two	do //
+13 big	ba //
+14 long	lamba //
+15 small	Co //
+16 woman	aurat, nari //
+17 man	%admi, mard //
+18 person	vy~akti, manuSy~a //
+19 fish	maCli //
+20 bird	pakSi, parinda //
+21 dog	kutta //
+22 louse	ju* //
+23 tree	pe, darxat //
+24 seed	bij //
+25 leaf	patti //
+26 root	ja //
+27 bark	Cal //
+28 skin	tvaCa, Cal //
+29 flesh	ma*s, goSt //
+30 blood	rakt, %xun //
+31 bone	ast //
+32 grease	vasa //
+33 egg	an //
+34 horn	si*g //
+35 tail	pu*S, dum //
+36 feather	pank, par //
+37 hair	bal, keS //
+38 head	sar //
+39 ear	kan //
+40 eye	a*k //
+41 nose	nak //
+42 mouth	mu*h, muk //
+43 tooth	da*t //
+44 tongue	jib, zaba* //
+45 claw	nakun //
+46 foot	pair //
+47 knee	gu //
+48 hand	hat //
+49 belly	pet //
+50 neck	gala, gardan //
+51 breast	stan, Cati //
+52 heart	dil //
+53 liver	jigar, kaleja //
+54 drink	pi //
+55 eat	ka //
+56 bite	ka //
+57 see	dek //
+58 hear	sun //
+59 know	jan //
+60 sleep	so //
+61 die	mar //
+62 kill	mar //
+63 swim	tair //
+64 fly	XXX //
+65 walk	Cal, ahal //
+66 come	ana //
+67 lie	le //
+68 sit	bai //
+69 stand	XXX //
+70 give	de //
+71 say	kah //
+72 sun	suraj //
+73 moon	Ca*d //
+74 star	sitara //
+75 water	pani //
+76 rain	bariS //
+77 stone	pattar //
+78 sand	ret, balu //
+79 earth	darti, bumi //
+80 cloud	badal //
+81 smoke	dua* //
+82 fire	ag, agni //
+83 ash	rak //
+84 burn	jal, jala //
+85 path	XXX //
+86 mountain	paha //
+87 red	lal //
+88 green	hara //
+89 yellow	pila //
+90 white	safed //
+91 black	kala //
+92 night	ratri //
+93 hot	garam //
+94 cold	sardi //
+95 full	pura //
+96 new	naya //
+97 good	aCCa //
+98 round	gol //
+99 dry	suka //
+100 name	nam //
+MARATHI
+ 1   19.00   76.00    71796800   mhi   mar
+1 I	mi //
+2 you	tula //
+3 we	ap3n //
+11 one	ek //
+12 two	don //
+18 person	manus //
+19 fish	maCli //
+21 dog	k3tra7 //
+22 louse	j3nt~u7 //
+23 tree	vrikS37 //
+25 leaf	pan //
+28 skin	C3mdi //
+30 blood	rat //
+31 bone	hEdi7 //
+34 horn	sund~ //
+39 ear	kan37 //
+40 eye	doLE7 //
+41 nose	nak //
+43 tooth	dant~ //
+44 tongue	jib //
+47 knee	gh~utn37 //
+48 hand	hath~ //
+51 breast	XXX //
+53 liver	XXX //
+54 drink	bi //
+57 see	b3g //
+58 hear	ayk //
+61 die	mr3ty~u7 //
+66 come	ye //
+72 sun	sury37 //
+74 star	tare //
+75 water	pani //
+77 stone	d3g3d //
+82 fire	ag37 //
+85 path	marg37 //
+86 mountain	pahad //
+92 night	ratri7 //
+95 full	purn37 //
+96 new	n3vin //
+100 name	nav //
+SANSKRIT
+ 1   28.70   77.20          -2         san
+1 I	3h3m //
+2 you	tv3m //
+3 we	v3y3m //
+11 one	ek3h, eka //
+12 two	dv3u, dve //
+18 person	manuS3h, m3nuSy3h //
+19 fish	min3h, m3tsy~3h //
+21 dog	Sva, Sun //
+22 louse	yuka //
+23 tree	vr~ikS3, daru //
+25 leaf	p3tr3m //
+28 skin	tv3k, Tc3rm3 //
+30 blood	rudh~ir3m, r3kt3m, 3sr~ik //
+31 bone	3sth~i //
+34 horn	Sr~iNg3m //
+39 ear	k3rN3h //
+40 eye	netr3m, n3n3m, 3kSi, Tc3kSuh //
+41 nose	nasika //
+43 tooth	d3nt3h, r3d3h //
+44 tongue	Tjihva //
+47 knee	Tj~anu //
+48 hand	h3st3h, panih //
+51 breast	st3n3h //
+53 liver	y3kr~it //
+54 drink	pa //
+57 see	dr~iS, mil //
+58 hear	Sru, ak3rn3y //
+61 die	mr~i //
+66 come	ag3m //
+72 sun	sury3h, r3vih //
+74 star	tara //
+75 water	Tj~3l3m, paniy3m, ap3h, ud3n //
+77 stone	pr3st3r3h, paSan3h, 3Sma //
+82 fire	3gnih, 3n3l3h //
+85 path	p3nth~ah, marg3h //
+86 mountain	p3rv3t3h, girih //
+92 night	n3kt3m, ratrih, kS3p //
+95 full	purn3, pr3purn3 //
+96 new	n3v3, n3vin3 //
+100 name	nam3 //
+URDU
+ 1   25.00   67.00    69165730   urd   urd
+1 I	mE* //
+2 you	tum, tu //
+3 we	h3m //
+11 one	ek //
+12 two	do //
+18 person	%m3rd //
+19 fish	m3Ch~li //
+21 dog	kuta //
+22 louse	XXX //
+23 tree	d3r3t, per //
+25 leaf	p3ta, p3ti //
+28 skin	jild //
+30 blood	xun //
+31 bone	h3di //
+34 horn	siNg //
+39 ear	kan //
+40 eye	a*kh~ //
+41 nose	nak //
+43 tooth	da*t //
+44 tongue	z3ban //
+47 knee	gh~utna //
+48 hand	bazu //
+51 breast	Ch~ati //
+53 liver	jig3r //
+54 drink	pi //
+57 see	dekh~ //
+58 hear	su //
+61 die	m3r //
+66 come	a //
+72 sun	sur3j //
+74 star	tara, sitara //
+75 water	pani //
+77 stone	p3th~3r //
+82 fire	ag //
+85 path	rasta //
+86 mountain	p3har //
+92 night	rat, S3b //
+95 full	bh~3rna //
+96 new	nea //
+100 name	nam //
+KURDISH_KURMANJI
+ 1   38.00   42.00    14766300   kji   kmr
+1 I	min, ez //
+2 you	tu //
+3 we	em, me //
+11 one	yek, ek //
+12 two	du //
+18 person	mirov, meriv //
+19 fish	masi //
+21 dog	seg, kuCik //
+22 louse	sipi //
+23 tree	dar //
+25 leaf	pel //
+28 skin	Cerm //
+30 blood	xw~in //
+31 bone	hesti //
+34 horn	qiloC //
+39 ear	guh //
+40 eye	Cav //
+41 nose	poz, lut //
+43 tooth	didan, diran //
+44 tongue	ziman //
+47 knee	Cok //
+48 hand	dest //
+51 breast	pesir, CiCik //
+53 liver	jeger //
+54 drink	vexw~arin //
+57 see	ditin //
+58 hear	bihiStin //
+61 die	mirin //
+66 come	hatin //
+72 sun	roZ, xor //
+74 star	ster //
+75 water	av //
+77 stone	kevir, ber //
+82 fire	agir //
+85 path	re //
+86 mountain	Ciya, sax //
+92 night	Sev //
+95 full	tiZi, pir //
+96 new	nu //
+100 name	nav //
+NAYINI
+ 1   34.22   53.52        7030         nyq
+1 I	mu, mo //
+2 you	to //
+3 we	emme, emmey, emu //
+11 one	XXX //
+12 two	XXX //
+18 person	merd, mErd //
+19 fish	XXX //
+21 dog	sok, sog //
+22 louse	XXX //
+23 tree	buney, bunE //
+25 leaf	XXX //
+28 skin	XXX //
+30 blood	XXX //
+31 bone	XXX //
+34 horn	XXX //
+39 ear	XXX //
+40 eye	XXX //
+41 nose	XXX //
+43 tooth	XXX //
+44 tongue	hizun, huzun //
+47 knee	zanew, zani //
+48 hand	XXX //
+51 breast	XXX //
+53 liver	XXX //
+54 drink	XXX //
+57 see	XXX //
+58 hear	XXX //
+61 die	XXX //
+66 come	XXX //
+72 sun	for //
+74 star	XXX //
+75 water	XXX //
+77 stone	sik, sig //
+82 fire	ayor, ayer //
+85 path	re //
+86 mountain	XXX //
+92 night	XXX //
+95 full	XXX //
+96 new	XXX //
+100 name	XXX //
+PERSIAN
+ 1   32.00   54.00    52490820   prs   pes
+1 I	man //
+2 you	to //
+3 we	m3 //
+4 this	in //
+5 that	n3 //
+6 who	ki //
+7 what	Ci //
+8 not	na //
+9 all	hame //
+10 many	xeyli //
+11 one	yek //
+12 two	do //
+13 big	bozorg //
+14 long	der3z //
+15 small	kuCik //
+16 woman	zan //
+17 man	mard //
+18 person	%ens3n //
+19 fish	m3hi //
+20 bird	parande //
+21 dog	sag //
+22 louse	SepeS //
+23 tree	deraxt //
+24 seed	toxm //
+25 leaf	barg //
+26 root	riSe //
+27 bark	pust //
+28 skin	pust //
+29 flesh	guSt //
+30 blood	xun //
+31 bone	ostoxun //
+32 grease	roGan //
+33 egg	toxm //
+34 horn	S3x //
+35 tail	dom //
+36 feather	par //
+37 hair	mu //
+38 head	sar //
+39 ear	guS //
+40 eye	CeSm //
+41 nose	dam3G //
+42 mouth	dahan //
+43 tooth	dand3n //
+44 tongue	zab3n //
+45 claw	panje //
+46 foot	p3 //
+47 knee	z3nu //
+48 hand	dast //
+49 belly	Sekam //
+50 neck	gardan //
+51 breast	pestun //
+52 heart	Galb //
+53 liver	jegar //
+54 drink	xord //
+55 eat	xord //
+56 bite	gazid //
+57 see	did //
+58 hear	Senid //
+59 know	dunest //
+60 sleep	x3bid //
+61 die	mord //
+62 kill	koSt //
+63 swim	Sen3 kard //
+64 fly	parv3z kard //
+65 walk	r3h raft //
+66 come	3mad //
+67 lie	der3z keSid //
+68 sit	neSast //
+69 stand	ist3d //
+70 give	d3d //
+71 say	goft //
+72 sun	xorSid //
+73 moon	m3h //
+74 star	setare //
+75 water	3b //
+76 rain	b3run //
+77 stone	sang //
+78 sand	Sen //
+79 earth	zamin //
+80 cloud	abr //
+81 smoke	dud //
+82 fire	3teS //
+83 ash	x3kestar //
+84 burn	suxt //
+85 path	rah //
+86 mountain	kuh //
+87 red	Germez //
+88 green	sabz //
+89 yellow	zard //
+90 white	sefid //
+91 black	si3h //
+92 night	Sab //
+93 hot	garm //
+94 cold	sard //
+95 full	por //
+96 new	t3zeh //
+97 good	xub //
+98 round	gerd //
+99 dry	xoSk //
+100 name	esm //
+CATALAN
+ 1   41.75    2.00     4053310   ctl   cat
+1 I	Zo //
+2 you	tu //
+3 we	nuzaltr3s //
+11 one	un //
+12 two	dos //
+18 person	p3rson3 //
+19 fish	peS //
+21 dog	gos, k3 //
+22 louse	poL //
+23 tree	abr3 //
+25 leaf	fuL3 //
+28 skin	peL //
+30 blood	saN //
+31 bone	os //
+34 horn	korn, ba53 //
+39 ear	urEL3 //
+40 eye	uL //
+41 nose	nas //
+43 tooth	den //
+44 tongue	LeNgw~3 //
+47 knee	j3noL //
+48 hand	ma //
+51 breast	pit //
+53 liver	fej3 //
+54 drink	bEur3 //
+57 see	bEur3 //
+58 hear	s3nti //
+61 die	muri //
+66 come	b3ni //
+72 sun	sol //
+74 star	3streL3 //
+75 water	aixw~3 //
+77 stone	pe8r3 //
+82 fire	fok //
+85 path	k3mi //
+86 mountain	mon //
+92 night	nit //
+95 full	plE //
+96 new	nou //
+100 name	nom //
+FRENCH
+ 1   48.00    2.00    76795640   fre   fra
+1 I	j3 //
+2 you	ti, vu //
+3 we	nu //
+4 this	s3si //
+5 that	s3la //
+6 who	ki //
+7 what	kwa //
+8 not	n3 pa //
+9 all	tu //
+10 many	boku //
+11 one	oe* //
+12 two	de //
+13 big	gra* //
+14 long	lo* //
+15 small	p3ti //
+16 woman	fam //
+17 man	om //
+18 person	om //
+19 fish	pw~aso* //
+20 bird	wazo //
+21 dog	Sia* //
+22 louse	pu //
+23 tree	arbr3 //
+24 seed	gran //
+25 leaf	f3y //
+26 root	rasin //
+27 bark	ekors //
+28 skin	po //
+29 flesh	vy~a*d //
+30 blood	sa* //
+31 bone	os //
+32 grease	grais //
+33 egg	3f //
+34 horn	korn //
+35 tail	ke //
+36 feather	ply~m //
+37 hair	S3ve //
+38 head	t3t //
+39 ear	ore //
+40 eye	3y //
+41 nose	ne //
+42 mouth	buS //
+43 tooth	da* //
+44 tongue	la*g //
+45 claw	o*gl //
+46 foot	py~e //
+47 knee	j3nu //
+48 hand	ma* //
+49 belly	va*tr //
+50 neck	ku //
+51 breast	pw~atrin //
+52 heart	k3r //
+53 liver	fw~a //
+54 drink	bw~a //
+55 eat	ma*g //
+56 bite	mord //
+57 see	vw~a //
+58 hear	o*ta*dr //
+59 know	savw~a //
+60 sleep	dormi //
+61 die	muri //
+62 kill	tue //
+63 swim	naje //
+64 fly	vw~ale //
+65 walk	marSe //
+66 come	v3ni //
+67 lie	seta*dr, etra*da*dE //
+68 sit	sasw~a, etrasi //
+69 stand	s3l3ve, s3t3nird3vu //
+70 give	done //
+71 say	di //
+72 sun	sole //
+73 moon	len //
+74 star	etw~ol //
+75 water	o //
+76 rain	plui //
+77 stone	py~er //
+78 sand	sabl //
+79 earth	ter //
+80 cloud	nuaj //
+81 smoke	fEme //
+82 fire	fe //
+83 ash	sa*dr //
+84 burn	brule //
+85 path	rut //
+86 mountain	mo*taj //
+87 red	ruj //
+88 green	ver //
+89 yellow	jon //
+90 white	bla* //
+91 black	nw~ar //
+92 night	nui //
+93 hot	So //
+94 cold	fr~wa //
+95 full	pl3* //
+96 new	nuvo //
+97 good	bo* //
+98 round	ro* //
+99 dry	s3k //
+100 name	no* //
+GALICIAN
+ 1   43.00   -8.00     2372000   glc   glg
+1 I	XXX //
+2 you	ti //
+3 we	nos //
+11 one	un //
+12 two	dous //
+18 person	ome //
+19 fish	pEiSe //
+21 dog	kan //
+22 louse	pioLo //
+23 tree	arbore //
+25 leaf	foLa //
+28 skin	pEl //
+30 blood	saNge //
+31 bone	oso //
+34 horn	korno //
+39 ear	orELa //
+40 eye	oLo //
+41 nose	nari8 //
+43 tooth	dEnte //
+44 tongue	liNgw~a //
+47 knee	SeonLo //
+48 hand	man //
+51 breast	pEito //
+53 liver	figado //
+54 drink	beber //
+57 see	ber //
+58 hear	oir //
+61 die	morer //
+66 come	bir //
+72 sun	sol //
+74 star	Estrela //
+75 water	auga //
+77 stone	pEdra //
+82 fire	lume //
+85 path	Estrada //
+86 mountain	monta5a //
+92 night	noite //
+95 full	Ceo //
+96 new	nobo //
+100 name	nome //
+ITALIAN
+ 1   43.00   12.00    64819790   ifi   ita
+1 I	io //
+2 you	tu //
+3 we	noi //
+11 one	uno //
+12 two	due //
+18 person	persona //
+19 fish	peSe //
+21 dog	kane //
+22 louse	pidokkyo //
+23 tree	albero //
+25 leaf	foLa //
+28 skin	pElle //
+30 blood	saNgwe //
+31 bone	osso //
+34 horn	korno //
+39 ear	orekkyo //
+40 eye	okkyo //
+41 nose	naso //
+43 tooth	dante //
+44 tongue	liNgwa //
+47 knee	jinokkyo //
+48 hand	mano //
+51 breast	pEtto //
+53 liver	fegato //
+54 drink	bere //
+57 see	ved //
+58 hear	ud //
+61 die	mor //
+66 come	vEn //
+72 sun	sole //
+74 star	stella //
+75 water	akwa //
+77 stone	pyEtra //
+82 fire	fwoko //
+85 path	sentyEro //
+86 mountain	monta5a //
+92 night	notte //
+95 full	pyEno //
+96 new	nwovo //
+100 name	nome //
+LATIN
+ 1   41.90   12.45          -2         lat
+1 I	ego //
+2 you	tu //
+3 we	nos //
+11 one	unus //
+12 two	duo //
+18 person	persona, homo //
+19 fish	piskis //
+21 dog	kanis //
+22 louse	pedikulus //
+23 tree	arbor //
+25 leaf	foly~u* //
+28 skin	kutis //
+30 blood	saNgw~is //
+31 bone	os //
+34 horn	kornu //
+39 ear	auris //
+40 eye	okulus //
+41 nose	nasus //
+43 tooth	dens //
+44 tongue	liNgw~E //
+47 knee	genu //
+48 hand	manus //
+51 breast	pektus, mama //
+53 liver	yekur //
+54 drink	bibere //
+57 see	widere //
+58 hear	audire //
+61 die	mori //
+66 come	wenire //
+72 sun	sol //
+74 star	stela //
+75 water	akw~a //
+77 stone	lapis //
+82 fire	iNnis //
+85 path	viya //
+86 mountain	mons //
+92 night	noks //
+95 full	plenus //
+96 new	nowus //
+100 name	nomen //
+PORTUGUESE
+ 1   39.00   -8.00   222708500   por   por
+1 I	eu //
+2 you	tu //
+3 we	noS //
+11 one	u* //
+12 two	doiS //
+18 person	pErzon //
+19 fish	paiS3 //
+21 dog	ka*u* //
+22 louse	pioLu //
+23 tree	Ervur3 //
+25 leaf	foLa //
+28 skin	pEl3 //
+30 blood	sa*x3 //
+31 bone	osu //
+34 horn	Sifr3 //
+39 ear	oraLa //
+40 eye	oLu //
+41 nose	nariS //
+43 tooth	de*t3 //
+44 tongue	li*gua //
+47 knee	ZuaLu //
+48 hand	ma*u //
+51 breast	saiuS //
+53 liver	fixa8u //
+54 drink	b3b //
+57 see	ver //
+58 hear	ov //
+61 die	mur //
+66 come	vir //
+72 sun	sol //
+74 star	3Strela //
+75 water	Egw~a //
+77 stone	pEdra //
+82 fire	fogu //
+85 path	se*da //
+86 mountain	mo*ta5a //
+92 night	noyt3 //
+95 full	Seyu //
+96 new	novu //
+100 name	nom3 //
+ROMANIAN
+ 1   46.00   25.00    23425940   rom   ron
+1 I	XXX //
+2 you	tu //
+3 we	noi //
+11 one	unu //
+12 two	doi //
+18 person	persoan3 //
+19 fish	peSte //
+21 dog	k3ne //
+22 louse	p3duke //
+23 tree	pom, arbore //
+25 leaf	frunz3 //
+28 skin	py~ele //
+30 blood	s3nje //
+31 bone	os //
+34 horn	korn //
+39 ear	ureke //
+40 eye	oky~ //
+41 nose	nas //
+43 tooth	dinte //
+44 tongue	limb3 //
+47 knee	jenuNky~ //
+48 hand	m3n3 //
+51 breast	py~ept, s3n //
+53 liver	fikat //
+54 drink	bea //
+57 see	vedea //
+58 hear	auzy~ //
+61 die	mury~ //
+66 come	veny~ //
+72 sun	soare //
+74 star	stea //
+75 water	ap3 //
+77 stone	py~atr3 //
+82 fire	fok //
+85 path	k3rare //
+86 mountain	munte //
+92 night	noapte //
+95 full	plin //
+96 new	nou //
+100 name	nume //
+SPANISH
+ 1   40.00   -4.00   442384990   spa   spa
+1 I	yo //
+2 you	ustet, tu //
+3 we	nosotros //
+4 this	este //
+5 that	ese, akely~a //
+6 who	kien //
+7 what	ke //
+8 not	no //
+9 all	todos //
+10 many	muCos //
+11 one	uno //
+12 two	dos //
+13 big	grande //
+14 long	largo //
+15 small	peke5o, Ciko //
+16 woman	muher //
+17 man	ombre //
+18 person	persona //
+19 fish	peskado, pes //
+20 bird	ave, paharo //
+21 dog	pero //
+22 louse	pioho //
+23 tree	arbol, palo //
+24 seed	semiya //
+25 leaf	oha //
+26 root	rais //
+27 bark	kortesa, kaskara //
+28 skin	piel //
+29 flesh	karne //
+30 blood	sangre //
+31 bone	weso //
+32 grease	grasa //
+33 egg	wevo //
+34 horn	kw~erno //
+35 tail	kola, rabo //
+36 feather	pluma //
+37 hair	pelo, kabeyo //
+38 head	kabesa //
+39 ear	oreha //
+40 eye	oho //
+41 nose	naris //
+42 mouth	boka //
+43 tooth	diente //
+44 tongue	lengw~a //
+45 claw	gara //
+46 foot	pie, pata //
+47 knee	rodiya //
+48 hand	mano //
+49 belly	bariga //
+50 neck	kw~eyo, peskw~eso //
+51 breast	peCo, seno //
+52 heart	korason //
+53 liver	igado //
+54 drink	bebe, toma //
+55 eat	kome //
+56 bite	morde //
+57 see	ve //
+58 hear	oir //
+59 know	sabe, konose //
+60 sleep	dormi //
+61 die	mori //
+62 kill	mata //
+63 swim	nada //
+64 fly	vola //
+65 walk	anda, kamina //
+66 come	veni //
+67 lie	akosta, eCa //
+68 sit	senta //
+69 stand	esta de pie //
+70 give	da //
+71 say	desi //
+72 sun	sol //
+73 moon	luna //
+74 star	estreya //
+75 water	agw~a //
+76 rain	yuvia //
+77 stone	piedra //
+78 sand	arena //
+79 earth	tiera //
+80 cloud	nube //
+81 smoke	umo //
+82 fire	fuego //
+83 ash	senisa //
+84 burn	kema, arde //
+85 path	senda //
+86 mountain	sero, monta5a //
+87 red	roho, kolorado //
+88 green	verde //
+89 yellow	amariyo //
+90 white	blanko //
+91 black	negro //
+92 night	noCe //
+93 hot	kaliente //
+94 cold	frio //
+95 full	yeno //
+96 new	nuevo //
+97 good	bw~eno //
+98 round	redondo //
+99 dry	seko //
+100 name	nombre //
+BELARUSIAN
+ 2   54.00   28.00     2562710   blr   bel
+1 I	ya //
+2 you	ti //
+3 we	mi //
+11 one	acin //
+12 two	dva //
+18 person	CaLavy~Ek //
+19 fish	riba //
+21 dog	sabaka //
+22 louse	voS //
+23 tree	drEva //
+25 leaf	list //
+28 skin	skura //
+30 blood	krou, krow //
+31 bone	koSC //
+34 horn	roh //
+39 ear	vuxa //
+40 eye	voka //
+41 nose	nos //
+43 tooth	zub //
+44 tongue	yazik //
+47 knee	kalEna, kaLEna //
+48 hand	daLo5, ruka //
+51 breast	hruci //
+53 liver	py~ECa5 //
+54 drink	piC //
+57 see	baCiC //
+58 hear	CuC //
+61 die	pamiraC //
+66 come	prixociC //
+72 sun	sonca //
+74 star	zorka //
+75 water	vada //
+77 stone	kamy~E5 //
+82 fire	aho5 //
+85 path	daroha, Slax //
+86 mountain	hara //
+92 night	noC //
+95 full	pouni, powni //
+96 new	novi //
+100 name	imy~a, nazva //
+BULGARIAN
+ 1   42.50   25.00     8030650   bul   bul
+1 I	az //
+2 you	ti //
+3 we	niE //
+11 one	Edno //
+12 two	dvE //
+18 person	ly~icE //
+19 fish	riba //
+21 dog	kuCE //
+22 louse	voSka //
+23 tree	dorvo //
+25 leaf	list //
+28 skin	koZa //
+30 blood	krov //
+31 bone	kost //
+34 horn	rog //
+39 ear	uxo //
+40 eye	oko //
+41 nose	nos //
+43 tooth	zob //
+44 tongue	Ezik //
+47 knee	koly~ano //
+48 hand	roka //
+51 breast	gordi //
+53 liver	CEr drob //
+54 drink	piya //
+57 see	viZdam //
+58 hear	sluSam, Cuvam //
+61 die	umiram //
+66 come	idvam //
+72 sun	sloncE //
+74 star	zvEzda //
+75 water	voda //
+77 stone	kamok //
+82 fire	ogon //
+85 path	pot //
+86 mountain	plany~ina //
+92 night	noSt //
+95 full	polEn //
+96 new	nov //
+100 name	imE //
+CROATIAN
+ 1   45.82   15.98     5410820   scr   hrv
+1 I	ya //
+2 you	ti //
+3 we	mi //
+11 one	yedan //
+12 two	dva //
+18 person	Covy~ek //
+19 fish	riba //
+21 dog	pas //
+22 louse	uS //
+23 tree	drvo //
+25 leaf	list //
+28 skin	koZa //
+30 blood	krv //
+31 bone	kost //
+34 horn	rog //
+39 ear	uho //
+40 eye	oko //
+41 nose	nos //
+43 tooth	zub //
+44 tongue	yezik //
+47 knee	koLeno //
+48 hand	ruka, Saka //
+51 breast	prsa //
+53 liver	yetra //
+54 drink	piti //
+57 see	vidy~eti //
+58 hear	Cuti //
+61 die	umriyeti //
+66 come	dolaziti //
+72 sun	sunce //
+74 star	zviyezda //
+75 water	voda //
+77 stone	kamen //
+82 fire	vatra //
+85 path	put //
+86 mountain	planina //
+92 night	noCy~ //
+95 full	pun //
+96 new	nov //
+100 name	ime //
+CZECH
+ 1   50.00   15.00    10691480   cze   ces
+1 I	ya //
+2 you	ti //
+3 we	mi //
+11 one	yEdno //
+12 two	dva //
+18 person	osoba //
+19 fish	riba //
+21 dog	pEs //
+22 louse	vES //
+23 tree	strom //
+25 leaf	list //
+28 skin	kuZE //
+30 blood	krEf //
+31 bone	kost //
+34 horn	roh //
+39 ear	uxo //
+40 eye	oko //
+41 nose	nos //
+43 tooth	zup //
+44 tongue	yazik //
+47 knee	kolEno //
+48 hand	ruka //
+51 breast	prs //
+53 liver	yatra //
+54 drink	pit //
+57 see	viTEt //
+58 hear	sliSEt //
+61 die	zEmrit //
+66 come	priyit //
+72 sun	sluncE //
+74 star	hvy~Ezda //
+75 water	voda //
+77 stone	kamEn //
+82 fire	ohE5 //
+85 path	py~ESina //
+86 mountain	hora //
+92 night	noc //
+95 full	pl5i //
+96 new	novi //
+100 name	ymEno //
+OLD_CHURCH_SLAVONIC
+ 1   40.63   22.95          -2         chu
+1 I	azu //
+2 you	ti //
+3 we	mi //
+11 one	yedinu //
+12 two	duva //
+18 person	Clovy~eku //
+19 fish	riba //
+21 dog	pisu //
+22 louse	XXX //
+23 tree	dry~evo, do*bu //
+25 leaf	listu //
+28 skin	koZa //
+30 blood	kruvi //
+31 bone	kosti //
+34 horn	rogu //
+39 ear	uxo //
+40 eye	oko //
+41 nose	nosu //
+43 tooth	zo*bu //
+44 tongue	ye*ziku //
+47 knee	koly~eno //
+48 hand	ro*ka //
+51 breast	susu, susici //
+53 liver	ye*tro //
+54 drink	piyetu //
+57 see	viditu //
+58 hear	sliSitu //
+61 die	miretu, umiretu //
+66 come	pridetu, gre*detu //
+72 sun	slunice //
+74 star	zvy~ezda //
+75 water	voda //
+77 stone	kami //
+82 fire	ogni //
+85 path	po*ti //
+86 mountain	gora //
+92 night	noSti //
+95 full	isplunu //
+96 new	novu //
+100 name	ime* //
+POLISH
+ 1   52.00   20.00    39600210   pol   pol
+1 I	ya //
+2 you	t3 //
+3 we	m3 //
+11 one	yEdEn //
+12 two	dva //
+18 person	osoba, CwoviEk //
+19 fish	r3ba //
+21 dog	piEs //
+22 louse	vES //
+23 tree	dZEvo //
+25 leaf	liSC //
+28 skin	skura //
+30 blood	krEf //
+31 bone	koSC //
+34 horn	ruk //
+39 ear	uxo //
+40 eye	oko //
+41 nose	nos //
+43 tooth	zo*p //
+44 tongue	yE*z3k, mova //
+47 knee	kolano //
+48 hand	rE*ka //
+51 breast	piErS //
+53 liver	vo*troba //
+54 drink	piC //
+57 see	vijEC //
+58 hear	sw3SEC //
+61 die	umiEraC //
+66 come	pZ3b3C //
+72 sun	swo5cE //
+74 star	gviazda //
+75 water	voda //
+77 stone	kamiE5 //
+82 fire	ogiE5 //
+85 path	SCEZka //
+86 mountain	gura //
+92 night	noc //
+95 full	pEwn3 //
+96 new	nov3 //
+100 name	imiE //
+RUSSIAN
+ 1   56.00   38.00   153919510   rus   rus
+1 I	ya //
+2 you	t3, v3 //
+3 we	m3 //
+4 this	Et3 //
+5 that	to //
+6 who	kto //
+7 what	Sto //
+8 not	ny~E //
+9 all	fsy~E //
+10 many	mnogy~i //
+11 one	ody~in //
+12 two	dva //
+13 big	boly~Soy //
+14 long	dly~inn3y //
+15 small	maly~Eny~ky~iy //
+16 woman	ZEny~Sy~in3 //
+17 man	muZCin3 //
+18 person	Cilovy~Ek //
+19 fish	r3b3 //
+20 bird	pty~ic3 //
+21 dog	sobak3, py~os //
+22 louse	voS //
+23 tree	dy~Ery~Ev3 //
+24 seed	sy~Emy~a, sy~imy~ina //
+25 leaf	ly~ist //
+26 root	kory~iny~ //
+27 bark	kora //
+28 skin	koZ3 //
+29 flesh	my~as3 //
+30 blood	krovy~ //
+31 bone	kosy~ty~ //
+32 grease	Z3r //
+33 egg	yayco //
+34 horn	rog //
+35 tail	xvost //
+36 feather	py~iro //
+37 hair	vol3s3 //
+38 head	g3lova //
+39 ear	ux3 //
+40 eye	glaz //
+41 nose	nos //
+42 mouth	rot //
+43 tooth	zub //
+44 tongue	yaz3k //
+45 claw	nog3ty~ //
+46 foot	stopa //
+47 knee	koly~En3 //
+48 hand	ruka, ky~isy~ty~ //
+49 belly	Z3vot //
+50 neck	SEy3 //
+51 breast	grudy~ //
+52 heart	sy~3rtc3 //
+53 liver	py~ECiny~ //
+54 drink	py~i //
+55 eat	yEsy~ //
+56 bite	gr3sy~, kusa //
+57 see	vy~idy~E //
+58 hear	sl3Sa //
+59 know	zna //
+60 sleep	spa //
+61 die	umy~ira //
+62 kill	uby~iva //
+63 swim	plava //
+64 fly	ly~Eta //
+65 walk	xody~i, ity~i //
+66 come	pry~ixody~i, pry~iy //
+67 lie	ly~iZa //
+68 sit	sy~idy~E //
+69 stand	stoya //
+70 give	da //
+71 say	govory~i //
+72 sun	sonc3 //
+73 moon	luna //
+74 star	zvy~Ezda //
+75 water	voda //
+76 rain	doZdy~ //
+77 stone	kamy~iny~ //
+78 sand	py~isok //
+79 earth	zy~Emly~a //
+80 cloud	tuC3, oblaka //
+81 smoke	d3m //
+82 fire	ogony~ //
+83 ash	zola, py~Epy~il //
+84 burn	ZEC, paly~i //
+85 path	dorog3, puty~ //
+86 mountain	gora //
+87 red	krasn //
+88 green	zy~ily~on //
+89 yellow	Zolt //
+90 white	by~El //
+91 black	Corn //
+92 night	noC //
+93 hot	gary~aC //
+94 cold	xolodn //
+95 full	poln //
+96 new	nov //
+97 good	xoroS, dobr //
+98 round	krugl //
+99 dry	suxo //
+100 name	imy~a //
+SERBOCROATIAN
+ 1   44.00   19.00    16601036   scr   hbs
+1 I	ya //
+2 you	ti, vi //
+3 we	mi //
+4 this	ovay, ova //
+5 that	ta, to //
+6 who	ko, tko //
+7 what	Sta, Sto //
+8 not	ne //
+9 all	sve //
+10 many	mnogo, puno //
+11 one	yedan //
+12 two	dva //
+13 big	veliki, golem //
+14 long	dugi //
+15 small	mali //
+16 woman	Zena //
+17 man	Coviyek, muZ //
+18 person	Covek, Coviyek //
+19 fish	riba //
+20 bird	ptica //
+21 dog	pas //
+22 louse	vaS, uS //
+23 tree	drvo //
+24 seed	sy~eme //
+25 leaf	list //
+26 root	koriyen, koren //
+27 bark	kora //
+28 skin	koZa //
+29 flesh	meso //
+30 blood	krv //
+31 bone	kost //
+32 grease	debly~ina, salo //
+33 egg	yaye //
+34 horn	rog //
+35 tail	rep //
+36 feather	pero, perka //
+37 hair	kosa //
+38 head	glava //
+39 ear	uvo, uho //
+40 eye	oko //
+41 nose	nos //
+42 mouth	usta //
+43 tooth	zub //
+44 tongue	yezik //
+45 claw	nokat //
+46 foot	stopa, stopalo //
+47 knee	koly~eno //
+48 hand	ruka, Saka //
+49 belly	stomak, trbuh //
+50 neck	vrat //
+51 breast	grudi, prsa //
+52 heart	srce //
+53 liver	yetra, cigerica //
+54 drink	pi //
+55 eat	yes //
+56 bite	uyes, gris //
+57 see	vidy~e //
+58 hear	sluSa //
+59 know	zna //
+60 sleep	spava //
+61 die	umre, umriye //
+62 kill	ubi //
+63 swim	pliva //
+64 fly	lety~e //
+65 walk	xoda //
+66 come	dolazi //
+67 lie	leZa //
+68 sit	sede, sy~edi //
+69 stand	stoya, staya //
+70 give	da //
+71 say	reTi, govori //
+72 sun	sunce //
+73 moon	my~esec //
+74 star	zvezda, zviyezda //
+75 water	voda //
+76 rain	kiSa //
+77 stone	kamen, stena //
+78 sand	pesak, piyesak //
+79 earth	zemly~a //
+80 cloud	oblak //
+81 smoke	dim //
+82 fire	vatra, ogani //
+83 ash	pepeo //
+84 burn	gore, gory~e //
+85 path	ulica, put //
+86 mountain	planina, gora //
+87 red	crveni //
+88 green	zeleni //
+89 yellow	Zuti //
+90 white	beli, biyeli //
+91 black	crni //
+92 night	nox //
+93 hot	topao //
+94 cold	zima, studen //
+95 full	pun //
+96 new	novi //
+97 good	dobar //
+98 round	okrugao, okrugli //
+99 dry	suv, suh //
+100 name	ime //
+SLOVAK
+ 1   49.00   20.00     5170200   svk   slk
+1 I	ya //
+2 you	ti //
+3 we	mi //
+11 one	yeden //
+12 two	dva //
+18 person	Clovek //
+19 fish	riba //
+21 dog	pes //
+22 louse	voS //
+23 tree	strom //
+25 leaf	list //
+28 skin	koZa //
+30 blood	krv //
+31 bone	kosT //
+34 horn	roh //
+39 ear	uxo //
+40 eye	oko //
+41 nose	nos //
+43 tooth	zub //
+44 tongue	yazik //
+47 knee	koleno //
+48 hand	ruka //
+51 breast	hruT //
+53 liver	peCe5 //
+54 drink	pi //
+57 see	vidie //
+58 hear	poCu //
+61 die	zomrie //
+66 come	pris //
+72 sun	slnko //
+74 star	hviezda //
+75 water	voda //
+77 stone	kame5 //
+82 fire	ohe5 //
+85 path	cesta, xodnik //
+86 mountain	vrx~, hora //
+92 night	noc //
+95 full	plni //
+96 new	novi //
+100 name	meno //
+SLOVENIAN
+ 1   46.00   15.00     2037060   slo   slv
+1 I	yaz //
+2 you	ti //
+3 we	mi //
+11 one	EdEn //
+12 two	dva //
+18 person	oseba //
+19 fish	riba //
+21 dog	pEs //
+22 louse	uS //
+23 tree	drEvo //
+25 leaf	list //
+28 skin	koZa //
+30 blood	kri //
+31 bone	kost //
+34 horn	rog //
+39 ear	uho //
+40 eye	oko //
+41 nose	nos //
+43 tooth	zob //
+44 tongue	yEzik //
+47 knee	koleno //
+48 hand	roka //
+51 breast	prsi //
+53 liver	yetra //
+54 drink	piti //
+57 see	vidEti //
+58 hear	sliSati //
+61 die	umirati //
+66 come	prihayati //
+72 sun	soncE //
+74 star	zvezda //
+75 water	voda //
+77 stone	kamEn //
+82 fire	oga5 //
+85 path	stEza, pot //
+86 mountain	gora //
+92 night	noC //
+95 full	poln //
+96 new	nov //
+100 name	ime //
+UKRAINIAN
+ 1   49.00   33.00    27148980   ukr   ukr
+1 I	yo //
+2 you	ti, vi //
+3 we	mi //
+11 one	odin //
+12 two	dvo //
+18 person	Ludino //
+19 fish	ribo //
+21 dog	pEs, soboko //
+22 louse	voSo //
+23 tree	dErEvo //
+25 leaf	list //
+28 skin	Skiro //
+30 blood	krow //
+31 bone	kistko //
+34 horn	ry~ih //
+39 ear	vuxo //
+40 eye	oko //
+41 nose	nis //
+43 tooth	zub //
+44 tongue	yazik //
+47 knee	koLino //
+48 hand	ruko //
+51 breast	hrudi //
+53 liver	piCinko //
+54 drink	piti //
+57 see	baCiti //
+58 hear	Cuti //
+61 die	wmirati //
+66 come	priti //
+72 sun	sonc~E //
+74 star	zy~irko, zory~o //
+75 water	vodo //
+77 stone	komi5 //
+82 fire	voho5 //
+85 path	doroho, SLox //
+86 mountain	horo //
+92 night	niC //
+95 full	powniy //
+96 new	noviy //
+100 name	imyo //
+UPPER_SORBIAN
+ 1   51.83   14.50       13300   sou   hsb
+1 I	ya //
+2 you	t3 //
+3 we	m3 //
+11 one	yEd3n //
+12 two	dvay //
+18 person	vosoba //
+19 fish	r3ba //
+21 dog	ps3k, pos //
+22 louse	voS //
+23 tree	Stom //
+25 leaf	wopy~Eno //
+28 skin	koZa //
+30 blood	krEy //
+31 bone	kosC //
+34 horn	roh, ro //
+39 ear	vuxo //
+40 eye	voCko, voko //
+41 nose	nos //
+43 tooth	zub //
+44 tongue	yaz3k //
+47 knee	kolEno //
+48 hand	ruka //
+51 breast	ruj, nadro //
+53 liver	yatra //
+54 drink	piC //
+57 see	vijEC //
+58 hear	sw~3SEC //
+61 die	mreC //
+66 come	pSi5C //
+72 sun	sw~3nco //
+74 star	vezda //
+75 water	voda //
+77 stone	kamy~E5 //
+82 fire	vohE5, voE5 //
+85 path	SCEZka, puC //
+86 mountain	hora //
+92 night	noc //
+95 full	pown3 //
+96 new	nov3 //
+100 name	my~Eno //
+ESTONIAN
+ 3   59.00   26.00     1144670   est   ekk
+1 I	mina, ma //
+2 you	sina, sa //
+3 we	meie, me //
+4 this	se //
+5 that	to //
+6 who	kes //
+7 what	mis //
+8 not	mitte //
+9 all	koik //
+10 many	palju, mitu //
+11 one	uks //
+12 two	kaks //
+13 big	sur //
+14 long	pikk //
+15 small	vaike //
+16 woman	naine //
+17 man	mes //
+18 person	inimene //
+19 fish	kala //
+20 bird	lind //
+21 dog	koer //
+22 louse	tai //
+23 tree	pu //
+24 seed	seme //
+25 leaf	%let //
+26 root	jur //
+27 bark	kor //
+28 skin	nak //
+29 flesh	liha //
+30 blood	veri //
+31 bone	kont, lu //
+32 grease	rasv //
+33 egg	muna //
+34 horn	%sarv //
+35 tail	saba //
+36 feather	sulg //
+37 hair	juksed //
+38 head	pea //
+39 ear	korv //
+40 eye	silm //
+41 nose	nina //
+42 mouth	su //
+43 tooth	hammas //
+44 tongue	kel //
+45 claw	kus //
+46 foot	jalg //
+47 knee	%polv //
+48 hand	kasi //
+49 belly	kot //
+50 neck	kael //
+51 breast	rind //
+52 heart	suda //
+53 liver	maks //
+54 drink	jo //
+55 eat	so //
+56 bite	hammusta //
+57 see	nage //
+58 hear	kul //
+59 know	tead //
+60 sleep	maga //
+61 die	sure //
+62 kill	tap //
+63 swim	uju //
+64 fly	lenda //
+65 walk	kondi //
+66 come	tule //
+67 lie	lama //
+68 sit	istu //
+69 stand	seis //
+70 give	and //
+71 say	utle //
+72 sun	paike //
+73 moon	ku //
+74 star	tat //
+75 water	vesi //
+76 rain	vim //
+77 stone	kivi //
+78 sand	liv //
+79 earth	ma, muld //
+80 cloud	pilv //
+81 smoke	suic //
+82 fire	tuli //
+83 ash	tuk //
+84 burn	pole //
+85 path	te //
+86 mountain	magi //
+87 red	punane //
+88 green	roheline //
+89 yellow	kollane //
+90 white	valge //
+91 black	must //
+92 night	o //
+93 hot	soe //
+94 cold	kulm //
+95 full	tais //
+96 new	us //
+97 good	hea //
+98 round	umar //
+99 dry	kuiv //
+100 name	%nimi //
+FINNISH
+ 1   62.00   25.00     5513000   fin   fin
+1 I	%minE //
+2 you	%sinE, te //
+3 we	%me //
+4 this	tEmE //
+5 that	tuo, se //
+6 who	kuka //
+7 what	mikE //
+8 not	ei //
+9 all	kaikki //
+10 many	%moni //
+11 one	iksi //
+12 two	kaksi //
+13 big	iso, %suuri //
+14 long	pitkE //
+15 small	pieni //
+16 woman	nainen //
+17 man	mies //
+18 person	%ihminen //
+19 fish	kala //
+20 bird	lintu //
+21 dog	koira //
+22 louse	tEi //
+23 tree	puu //
+24 seed	%siemen //
+25 leaf	%lehti //
+26 root	juuri //
+27 bark	kuori //
+28 skin	iho //
+29 flesh	liha //
+30 blood	veri //
+31 bone	luu //
+32 grease	%rasva //
+33 egg	muna //
+34 horn	%sarvi //
+35 tail	hEntE //
+36 feather	sulka //
+37 hair	tukka, %hius //
+38 head	pEE //
+39 ear	korva //
+40 eye	silmE //
+41 nose	nenE //
+42 mouth	suu //
+43 tooth	%hammas //
+44 tongue	kieli //
+45 claw	ky~nsi //
+46 foot	jalka //
+47 knee	polvi //
+48 hand	kEsi //
+49 belly	vatsa, %maha //
+50 neck	%kaula //
+51 breast	%rinta //
+52 heart	sy~dEn //
+53 liver	maksa //
+54 drink	juo //
+55 eat	sy~3 //
+56 bite	pure //
+57 see	nEke //
+58 hear	kuule //
+59 know	tietE //
+60 sleep	nukku //
+61 die	kuole //
+62 kill	tappa //
+63 swim	ui //
+64 fly	lentE //
+65 walk	kEvele //
+66 come	tule //
+67 lie	makaa //
+68 sit	istu //
+69 stand	seiso //
+70 give	anta //
+71 say	sano //
+72 sun	aurinko //
+73 moon	kuu //
+74 star	tEhti //
+75 water	%vesi //
+76 rain	sata //
+77 stone	kivi //
+78 sand	hiekka //
+79 earth	maa //
+80 cloud	pilvi //
+81 smoke	savu //
+82 fire	tuli //
+83 ash	tuhka //
+84 burn	pala //
+85 path	tie //
+86 mountain	vuori //
+87 red	punainen //
+88 green	vihreE //
+89 yellow	keltainen //
+90 white	valkoinen //
+91 black	musta //
+92 night	y3 //
+93 hot	kuuma //
+94 cold	ky~lmE //
+95 full	tEysi //
+96 new	uusi //
+97 good	hy~vE //
+98 round	py~3reE //
+99 dry	kuiva //
+100 name	%nimi //
+KARELIAN
+ 1   64.00   32.00       35600   krl   krl
+1 I	mie //
+2 you	sie //
+3 we	mie //
+11 one	iksi //
+12 two	koksi //
+18 person	imine, mies //
+19 fish	kolo //
+21 dog	koiro //
+22 louse	tEi //
+23 tree	pu //
+25 leaf	%leti //
+28 skin	noko //
+30 blood	veri //
+31 bone	lu //
+34 horn	%sorvi //
+39 ear	korvo //
+40 eye	silmE //
+41 nose	nenE //
+43 tooth	homos //
+44 tongue	kieli //
+47 knee	%polvi //
+48 hand	kEzi //
+51 breast	rindo //
+53 liver	mokso //
+54 drink	%yuodo, %yuvo //
+57 see	nEhE //
+58 hear	kulo //
+61 die	kuolo //
+66 come	tulo //
+72 sun	pEivEine //
+74 star	tEti //
+75 water	vesi //
+77 stone	kivi //
+82 fire	tuli //
+85 path	tie //
+86 mountain	mEgi //
+92 night	XXX //
+95 full	tEizi //
+96 new	uzi //
+100 name	%nimi //
+ERZYA
+ 2   53.00   45.50       96860   moe   myv
+1 I	mon //
+2 you	ton //
+3 we	mi5 //
+11 one	veke //
+12 two	kavto //
+18 person	%loma5 //
+19 fish	kal //
+21 dog	kiska, pine //
+22 louse	CiCav //
+23 tree	Cuvto //
+25 leaf	lopa //
+28 skin	kedy~, kisy~ke //
+30 blood	very~ //
+31 bone	lovaZa //
+34 horn	%sy~uro //
+39 ear	pile //
+40 eye	sy~eLme //
+41 nose	sudo //
+43 tooth	pey //
+44 tongue	keL //
+47 knee	kumaZa //
+48 hand	kedy~ //
+51 breast	meSte //
+53 liver	makso //
+54 drink	simems //
+57 see	neyems //
+58 hear	mary~ams //
+61 die	kuloms //
+66 come	sams //
+72 sun	Cipay, Ci //
+74 star	teSte //
+75 water	vedy~ //
+77 stone	kev //
+82 fire	tol //
+85 path	ki //
+86 mountain	ine pando //
+92 night	ve //
+95 full	peSkse //
+96 new	od //
+100 name	%lem //
+MOKSHA
+ 1   54.00   44.00        2030   mmo   mdf
+1 I	mon //
+2 you	ton //
+3 we	my~i5 //
+4 this	ty~a //
+5 that	sy~a, tona //
+6 who	kiye //
+7 what	my~ezy~e //
+8 not	af //
+9 all	sy~emby~e //
+10 many	XXX //
+11 one	fka //
+12 two	kafta //
+13 big	ocy~u //
+14 long	kuvaka //
+15 small	yomla //
+16 woman	ava //
+17 man	aly~a, cy~oraloma5 //
+18 person	loma5 //
+19 fish	kal //
+20 bird	narmo5 //
+21 dog	pi5e //
+22 louse	sy~i //
+23 tree	Sufta //
+24 seed	vy~idy~mot //
+25 leaf	lopa //
+26 root	yur, unks //
+27 bark	ker //
+28 skin	kisy~ke //
+29 flesh	pal, sy~ivoly~ //
+30 blood	vy~er //
+31 bone	pakary~ //
+32 grease	kuya //
+33 egg	al //
+34 horn	sy~ura //
+35 tail	pula //
+36 feather	tolga //
+37 hair	Sayary~ //
+38 head	pry~a //
+39 ear	pily~e //
+40 eye	sy~ely~my~e //
+41 nose	Salxka //
+42 mouth	kurga //
+43 tooth	pey //
+44 tongue	kaly~ //
+45 claw	kenZe //
+46 foot	pily~ge, pily~gelapa //
+47 knee	ely~, p3lmanZa //
+48 hand	kady~ //
+49 belly	peke //
+50 neck	sy~aldaz //
+51 breast	poty~a //
+52 heart	sy~edy~i //
+53 liver	maksa //
+54 drink	sy~imoms //
+55 eat	yarxcams //
+56 bite	suskoms //
+57 see	5ayems //
+58 hear	mary~ams //
+59 know	sodams //
+60 sleep	udoms //
+61 die	kuloms //
+62 kill	Savoms, ady~elams //
+63 swim	uyems //
+64 fly	ly~iyems //
+65 walk	yakams //
+66 come	sams //
+67 lie	madozy~ aSCy~ems //
+68 sit	aSCy~ems ozada //
+69 stand	aSCy~ems sty~ada //
+70 give	maksoms //
+71 say	azoms, my~ary~goms //
+72 sun	Si //
+73 moon	kov //
+74 star	ty~aSty~e //
+75 water	vy~edy~ //
+76 rain	pizy~em //
+77 stone	kev //
+78 sand	Suvar //
+79 earth	moda, mastor //
+80 cloud	kovol //
+81 smoke	kaCam //
+82 fire	tol //
+83 ash	kulu //
+84 burn	paloms //
+85 path	yan, ki5a //
+86 mountain	panda //
+87 red	yaksty~ery~ //
+88 green	piZe, sy~angary~a //
+89 yellow	ty~uZa //
+90 white	akSa //
+91 black	ravZa //
+92 night	vy~e //
+93 hot	ly~amby~e //
+94 cold	kely~my~e //
+95 full	paSksy~e //
+96 new	od //
+97 good	para, cy~eby~ary~ //
+98 round	kruglay //
+99 dry	kosy~ke //
+100 name	ly~em //
+KOMI_PERMYAK
+ 2   59.50   54.50       63100   kop   koi
+1 I	my~e //
+2 you	te //
+3 we	mi //
+11 one	eti //
+12 two	kik //
+18 person	%mort //
+19 fish	Ceri //
+21 dog	pon //
+22 louse	XXX //
+23 tree	pu //
+25 leaf	kor //
+28 skin	XXX //
+30 blood	vir //
+31 bone	li //
+34 horn	%sy~ur //
+39 ear	pely~, peL //
+40 eye	sin //
+41 nose	nir //
+43 tooth	piny~, pi5 //
+44 tongue	kiv //
+47 knee	pidz~es, pices //
+48 hand	ki //
+51 breast	mores //
+53 liver	mus //
+54 drink	%yu //
+57 see	adz~i, aci //
+58 hear	kiv //
+61 die	kuv //
+66 come	lok //
+72 sun	XXX //
+74 star	kodz~uv, kocuv //
+75 water	va //
+77 stone	iz //
+82 fire	bi //
+85 path	tuy //
+86 mountain	gera //
+92 night	voy //
+95 full	XXX //
+96 new	vily~, vi5 //
+100 name	%nim //
+KOMI_ZYRIAN
+ 1   65.00   55.00      156000   kzy   kpv
+1 I	my~e //
+2 you	te //
+3 we	mi //
+11 one	3ti //
+12 two	k3k //
+18 person	%mort //
+19 fish	cy~eri //
+21 dog	pon //
+22 louse	XXX //
+23 tree	pu //
+25 leaf	kor //
+28 skin	XXX //
+30 blood	vir //
+31 bone	l3 //
+34 horn	%sy~ur //
+39 ear	peL, pely~ //
+40 eye	sin //
+41 nose	n3r //
+43 tooth	pi5, piny~ //
+44 tongue	k3v //
+47 knee	p3cy~3s //
+48 hand	ki //
+51 breast	mor3s //
+53 liver	mus //
+54 drink	%yun3 //
+57 see	adcy~3n3, acy~3n3 //
+58 hear	k3vn3 //
+61 die	kuvn3 //
+66 come	lokn3 //
+72 sun	XXX //
+74 star	kocy~uv //
+75 water	va //
+77 stone	iz //
+82 fire	bi //
+85 path	tuy //
+86 mountain	g3ra //
+92 night	voy //
+95 full	XXX //
+96 new	v3L, v3ly~ //
+100 name	%nim //
+SKOLT_SAAMI
+ 1   68.00   30.00         650         sms
+1 I	mon //
+2 you	ton //
+3 we	miy //
+11 one	3t //
+12 two	ku3t, kw~3t //
+18 person	%olmaZ //
+19 fish	kuel, kw~El //
+21 dog	pionai, py~onai //
+22 louse	teky~, tEky~ //
+23 tree	mu3r, mw~3r //
+25 leaf	%l3st //
+28 skin	leSky~, lESky~ //
+30 blood	v3r //
+31 bone	tEt //
+34 horn	%CuErv, %Cw~Erv //
+39 ear	peL, pEL //
+40 eye	Colm //
+41 nose	5un //
+43 tooth	pEn //
+44 tongue	5uCom //
+47 knee	pu3lv, pw~3lv //
+48 hand	ki3t, ky~3t //
+51 breast	rod //
+53 liver	vuoivos, vw~oivos //
+54 drink	%yuko //
+57 see	vueine, vw~EinE //
+58 hear	kulo //
+61 die	yEme, yEmE //
+66 come	puete, pw~EtE //
+72 sun	peiv, pEiv //
+74 star	tEsn //
+75 water	CEc //
+77 stone	keEdgy~ //
+82 fire	tol //
+85 path	pELes, pELEs //
+86 mountain	vEr //
+92 night	in //
+95 full	tiudos //
+96 new	o8os //
+100 name	%n3m //
+HUNGARIAN
+ 1   47.00   20.00    12552400   hun   hun
+1 I	en //
+2 you	te //
+3 we	mi //
+4 this	ez //
+5 that	az //
+6 who	aki //
+7 what	ami //
+8 not	nem //
+9 all	mind, isses //
+10 many	sok //
+11 one	egy~ //
+12 two	ketti //
+13 big	nagy~ //
+14 long	hossu //
+15 small	kis, kiCi //
+16 woman	ni //
+17 man	mies //
+18 person	ember //
+19 fish	hal //
+20 bird	madar //
+21 dog	kuTa //
+22 louse	teti //
+23 tree	fa //
+24 seed	mag //
+25 leaf	level //
+26 root	gy~iker //
+27 bark	kereg //
+28 skin	bir //
+29 flesh	hus //
+30 blood	ver //
+31 bone	Cont //
+32 grease	Zir //
+33 egg	tojas //
+34 horn	sarv //
+35 tail	farok //
+36 feather	tol //
+37 hair	haj //
+38 head	fej //
+39 ear	fil //
+40 eye	sem //
+41 nose	or //
+42 mouth	saj //
+43 tooth	fog //
+44 tongue	5elv //
+45 claw	kirim //
+46 foot	labfej //
+47 knee	terd //
+48 hand	kez //
+49 belly	has //
+50 neck	5ak //
+51 breast	mel //
+52 heart	siv //
+53 liver	maj //
+54 drink	in //
+55 eat	en //
+56 bite	harap //
+57 see	lat //
+58 hear	hallan //
+59 know	tud //
+60 sleep	alud //
+61 die	hal //
+62 kill	il //
+63 swim	is //
+64 fly	repil //
+65 walk	men, setal //
+66 come	jin //
+67 lie	fekid //
+68 sit	il //
+69 stand	all //
+70 give	ad //
+71 say	monda //
+72 sun	nap //
+73 moon	hold //
+74 star	Cillag //
+75 water	viz //
+76 rain	esi //
+77 stone	ki //
+78 sand	homok //
+79 earth	fild //
+80 cloud	felhi //
+81 smoke	fist //
+82 fire	tiz //
+83 ash	hamu //
+84 burn	eg //
+85 path	it //
+86 mountain	hegy~ //
+87 red	verez //
+88 green	zild //
+89 yellow	sarga //
+90 white	feher //
+91 black	fekete //
+92 night	ej, ejsaka //
+93 hot	meleg //
+94 cold	hideg //
+95 full	tele //
+96 new	ij //
+97 good	jo //
+98 round	kerek //
+99 dry	saraz //
+100 name	nev //
+KAZAKH
+ 1   50.00   70.00    12813860   kaz   kaz
+1 I	men //
+2 you	sen //
+3 we	biz //
+11 one	bir //
+12 two	eki //
+18 person	kisi, %adam //
+19 fish	baluq //
+21 dog	it //
+22 louse	bit //
+23 tree	axaS, aXaS //
+25 leaf	Zaluraq //
+28 skin	teri //
+30 blood	qan //
+31 bone	siyek //
+34 horn	miyiz //
+39 ear	qulaq //
+40 eye	kez //
+41 nose	murun //
+43 tooth	tis //
+44 tongue	til //
+47 knee	tize //
+48 hand	qol //
+51 breast	kekirek, tes //
+53 liver	baur, bawur //
+54 drink	iSu //
+57 see	keru //
+58 hear	esitu //
+61 die	elu //
+66 come	kelu //
+72 sun	kin //
+74 star	Zulduz //
+75 water	su, suw //
+77 stone	tas //
+82 fire	ot //
+85 path	Zol //
+86 mountain	tau, taw //
+92 night	tin //
+95 full	tolu //
+96 new	ZaNa //
+100 name	at, esim //
+OLD_TURKIC
+ 1   37.00   59.00          -2         otk
+1 I	ban, man //
+2 you	san //
+3 we	biz, bizlar //
+11 one	aivam //
+12 two	aki //
+18 person	kiSi //
+19 fish	baluk //
+21 dog	ut //
+22 louse	birga //
+23 tree	ugaC //
+25 leaf	Tapurgok, yapurgak, patur //
+28 skin	XXX //
+30 blood	kan //
+31 bone	sinEk //
+34 horn	miyiz //
+39 ear	kulkak //
+40 eye	kEz //
+41 nose	burun //
+43 tooth	tuS //
+44 tongue	tul //
+47 knee	tiz //
+48 hand	alig //
+51 breast	kEkiz, bigsak //
+53 liver	XXX //
+54 drink	XXX //
+57 see	kEr //
+58 hear	aSid //
+61 die	El //
+66 come	kal //
+72 sun	kin //
+74 star	yultuz //
+75 water	su, sub //
+77 stone	taS //
+82 fire	ot //
+85 path	oruka, yol //
+86 mountain	tEpE, kur //
+92 night	tin //
+95 full	tod //
+96 new	yaNu //
+100 name	at //
+TURKISH
+ 1   39.00   35.00    78527240   tur   tur
+1 I	ben //
+2 you	sen, siz //
+3 we	biz //
+4 this	bu //
+5 that	Su, o //
+6 who	kim, o ki //
+7 what	ne, nasil, hangi //
+8 not	deyil //
+9 all	bitin, hepis //
+10 many	birCok //
+11 one	bir, tek //
+12 two	iki //
+13 big	biyik, kojaman //
+14 long	uzun //
+15 small	kiCik, ufak //
+16 woman	kad3n //
+17 man	erkek, %adam //
+18 person	sah3s, kimse //
+19 fish	bal3k //
+20 bird	kuS //
+21 dog	k3pek, ayakl3k //
+22 louse	bit, kele //
+23 tree	ayaC Sejere //
+24 seed	tohum //
+25 leaf	yeprak //
+26 root	k3k //
+27 bark	kabuk //
+28 skin	deri, post //
+29 flesh	vijut, ten //
+30 blood	kan //
+31 bone	kemik, k3lC3k //
+32 grease	ya //
+33 egg	yumurta //
+34 horn	bonuz, boru //
+35 tail	kuruk, arka //
+36 feather	kuS tiyi //
+37 hair	saC, k3l //
+38 head	baS, kafa //
+39 ear	kulak, baSak //
+40 eye	delik, ilik //
+41 nose	burun uj //
+42 mouth	ay3z, mansap //
+43 tooth	diS //
+44 tongue	dil, lisan //
+45 claw	t3rnak //
+46 foot	ayak //
+47 knee	diz //
+48 hand	el, akrep //
+49 belly	kar3n //
+50 neck	boyun, gerdan //
+51 breast	g3Gis, meme //
+52 heart	kalb, yirek //
+53 liver	%karajiyer //
+54 drink	iCki, iCejek //
+55 eat	ye //
+56 bite	3s3rma, lokma //
+57 see	g3r, anla //
+58 hear	iSitmek, duy //
+59 know	bil, tan3 //
+60 sleep	uyu //
+61 die	zar, kal3p //
+62 kill	3ldir, katlet //
+63 swim	yiz //
+64 fly	uCur //
+65 walk	yiri, gez //
+66 come	gel //
+67 lie	yat, uzan //
+68 sit	otur //
+69 stand	ayakta dur, dik dur //
+70 give	ver, bay3Sla //
+71 say	s3l, de //
+72 sun	gineS //
+73 moon	ay, kamer //
+74 star	y3ld3z //
+75 water	su //
+76 rain	yamur //
+77 stone	taS, Cekirdik //
+78 sand	kum //
+79 earth	toprak, kara //
+80 cloud	bulut //
+81 smoke	duman //
+82 fire	ateS, yang3n //
+83 ash	kil //
+84 burn	yak, yan //
+85 path	keCi yolu, patika //
+86 mountain	da silsilesi //
+87 red	k3rm3z3, k3z3l //
+88 green	yeSil, ham //
+89 yellow	sar3 //
+90 white	beyaz, ak //
+91 black	siyah, kara //
+92 night	geje //
+93 hot	s3jak, k3zg3n //
+94 cold	soyuk, sakin //
+95 full	dolugun, tam //
+96 new	yeni, %taze //
+97 good	iyi, gizel //
+98 round	yuvarlak, toparlak //
+99 dry	kuru, kurak //
+100 name	isim, ad //
+UYGHUR
+ 1   40.00   80.00    10394210   uyg   uig
+1 I	XXX //
+2 you	san //
+3 we	biz //
+11 one	bir //
+12 two	iki //
+18 person	%odam //
+19 fish	beliq //
+21 dog	iSt //
+22 louse	piSt //
+23 tree	darax //
+25 leaf	yopurmoq //
+28 skin	tera //
+30 blood	qon //
+31 bone	ustixon //
+34 horn	miNgiz //
+39 ear	quloq //
+40 eye	k3z //
+41 nose	burun //
+43 tooth	CiS //
+44 tongue	XXX //
+47 knee	tiz //
+48 hand	qol //
+51 breast	k3ksa //
+53 liver	bexir //
+54 drink	iCmak //
+57 see	k3rmak //
+58 hear	oNlimoq //
+61 die	8lmak //
+66 come	bormoq, kalmak //
+72 sun	quyoS //
+74 star	Zultus //
+75 water	su //
+77 stone	toS //
+82 fire	ot //
+85 path	yolxz oyoq yol //
+86 mountain	tox //
+92 night	tin //
+95 full	tolxon //
+96 new	yeNi //
+100 name	nom //
+JAPANESE
+ 1   37.00  140.00   128202710   jpn   jpn
+1 I	wataSi //
+2 you	anata //
+3 we	wareware //
+4 this	kono //
+5 that	sono, ano //
+6 who	tare //
+7 what	nan no //
+8 not	de nai, Si nai //
+9 all	subete, mina //
+10 many	tasu //
+11 one	hitocu //
+12 two	futacu //
+13 big	okina, erai //
+14 long	nagai //
+15 small	Cisai //
+16 woman	onna //
+17 man	hito, otoko //
+18 person	hito, jintai //
+19 fish	uo //
+20 bird	tori //
+21 dog	inu //
+22 louse	XXX //
+23 tree	ki //
+24 seed	tane //
+25 leaf	kono ha //
+26 root	ne //
+27 bark	kigawa //
+28 skin	kawa, %hifu //
+29 flesh	niku //
+30 blood	Ci //
+31 bone	hone //
+32 grease	juSi //
+33 egg	tamago //
+34 horn	cuno //
+35 tail	o, Sippo //
+36 feather	yumo //
+37 hair	ke, tohacu //
+38 head	atama, zuno //
+39 ear	mimi //
+40 eye	me //
+41 nose	hana //
+42 mouth	kuCi //
+43 tooth	ha //
+44 tongue	Sita //
+45 claw	cume //
+46 foot	aSi //
+47 knee	hiza //
+48 hand	te //
+49 belly	XXX //
+50 neck	kubi //
+51 breast	mune //
+52 heart	Sinzo, kokoro //
+53 liver	XXX //
+54 drink	nomu, su //
+55 eat	tabe //
+56 bite	kamu //
+57 see	mi, menkai su //
+58 hear	kiku //
+59 know	Si //
+60 sleep	nemu //
+61 die	Sinu, kare //
+62 kill	korosu, karasu //
+63 swim	oyogu //
+64 fly	tobu //
+65 walk	aruku //
+66 come	ku, yuku //
+67 lie	wokotawa //
+68 sit	suwa //
+69 stand	tacu //
+70 give	atae, make //
+71 say	yu //
+72 sun	%taiyo //
+73 moon	cuki //
+74 star	hoSi //
+75 water	mizu //
+76 rain	ame, kou //
+77 stone	iSi, koiSi sekizai //
+78 sand	suna //
+79 earth	Cikyu, cuCi //
+80 cloud	kumo //
+81 smoke	kemuri, kicuen //
+82 fire	hi //
+83 ash	hai //
+84 burn	moe, wake //
+85 path	komiCi, hodo //
+86 mountain	yama //
+87 red	akairo no //
+88 green	midori, aoao Sita //
+89 yellow	kiro //
+90 white	Siroi //
+91 black	kuroi //
+92 night	yo //
+93 hot	acui //
+94 cold	samui, cumetai //
+95 full	miCita, %ippai de //
+96 new	ataraSi, Sinsen //
+97 good	yoi //
+98 round	marui //
+99 dry	kawaita //
+100 name	na, seimei //
+KOREAN
+ 3   37.50  128.00    77213490   kor   kor
+1 I	na //
+2 you	taNsin //
+3 we	uri //
+4 this	igot //
+5 that	kugot //
+6 who	nuga //
+7 what	oton, mu //
+8 not	ani //
+9 all	modun, Conbu //
+10 many	manun //
+11 one	han //
+12 two	tul //
+13 big	kun //
+14 long	kin //
+15 small	Cakun //
+16 woman	yoja //
+17 man	namja //
+18 person	saram //
+19 fish	mul kogi //
+20 bird	sE //
+21 dog	kE //
+22 louse	i //
+23 tree	namu //
+24 seed	ssi //
+25 leaf	iph~ //
+26 root	buri //
+27 bark	namu gopjil //
+28 skin	gopjil //
+29 flesh	kogi //
+30 blood	pi //
+31 bone	by~o //
+32 grease	kirum //
+33 egg	al //
+34 horn	bul //
+35 tail	gori //
+36 feather	kit //
+37 hair	moritol //
+38 head	mori //
+39 ear	kw~i //
+40 eye	nun //
+41 nose	ko //
+42 mouth	ip //
+43 tooth	i //
+44 tongue	hy~o //
+45 claw	paltop //
+46 foot	pal //
+47 knee	murup //
+48 hand	son //
+49 belly	XXX //
+50 neck	mok //
+51 breast	kasum, Cot //
+52 heart	simjang //
+53 liver	kan //
+54 drink	masi //
+55 eat	mok //
+56 bite	mul //
+57 see	po //
+58 hear	tut //
+59 know	al //
+60 sleep	Ca //
+61 die	Cuk //
+62 kill	Cuki //
+63 swim	heom //
+64 fly	nal //
+65 walk	koro, ka //
+66 come	oda //
+67 lie	kojitmalul ha //
+68 sit	ant //
+69 stand	so //
+70 give	Cu //
+71 say	mal ha //
+72 sun	hE //
+73 moon	tal //
+74 star	py~ol //
+75 water	mul //
+76 rain	pi //
+77 stone	tol //
+78 sand	morai //
+79 earth	Cigu //
+80 cloud	kurun //
+81 smoke	yongi //
+82 fire	pul //
+83 ash	CE //
+84 burn	tEu, pulput //
+85 path	kil //
+86 mountain	san //
+87 red	pulkun //
+88 green	Corok sEk //
+89 yellow	nurun //
+90 white	huin //
+91 black	komun //
+92 night	pam //
+93 hot	dugoun //
+94 cold	Can //
+95 full	Can //
+96 new	sEroun //
+97 good	Cohun //
+98 round	tuNgun //
+99 dry	marun //
+100 name	irum //
+TELUGU
+ 1   16.00   79.00    74771240   tel   tel
+1 I	nenu //
+2 you	nivu //
+3 we	memu //
+4 this	i //
+5 that	a //
+6 who	eva*du //
+7 what	emi //
+8 not	kadu //
+9 all	anta //
+10 many	nana //
+11 one	okati //
+12 two	rendu //
+13 big	pedda //
+14 long	poduga //
+15 small	Cinna //
+16 woman	%stri //
+17 man	%purusu*du //
+18 person	%manusudu //
+19 fish	Cepa //
+20 bird	%paksi //
+21 dog	kukka //
+22 louse	penu //
+23 tree	Cettu //
+24 seed	vittu //
+25 leaf	aku //
+26 root	veru //
+27 bark	patta //
+28 skin	tolu //
+29 flesh	%mamsamu //
+30 blood	%raktamu //
+31 bone	emuku //
+32 grease	krovvina //
+33 egg	gruddu //
+34 horn	kommu //
+35 tail	valamu //
+36 feather	yika //
+37 hair	vendruka //
+38 head	tala //
+39 ear	Cevi //
+40 eye	kannu //
+41 nose	mukku //
+42 mouth	noru //
+43 tooth	pallu //
+44 tongue	naluka //
+45 claw	goru //
+46 foot	padamu //
+47 knee	mo*kalu //
+48 hand	Ceyi //
+49 belly	kadupu //
+50 neck	meda //
+51 breast	gunde //
+52 heart	%hrdayamu //
+53 liver	kalemanu //
+54 drink	tragu //
+55 eat	tinu //
+56 bite	karaCu //
+57 see	CuCu //
+58 hear	vinu //
+59 know	era*gu //
+60 sleep	%nindrinCu //
+61 die	CaCCu //
+62 kill	Campu //
+63 swim	idu //
+64 fly	eguru //
+65 walk	nadaCu //
+66 come	vaCCu //
+67 lie	padukonu //
+68 sit	kurCu //
+69 stand	nilCuCu //
+70 give	iCCu //
+71 say	Ceppu //
+72 sun	%suryu*du //
+73 moon	%Candru*du //
+74 star	Cukka //
+75 water	nillu //
+76 rain	%varsamu //
+77 stone	rayi //
+78 sand	isuka //
+79 earth	mannu //
+80 cloud	megh~amu //
+81 smoke	poga //
+82 fire	nippu //
+83 ash	budida //
+84 burn	kalCu //
+85 path	%margamu //
+86 mountain	konda //
+87 red	erra //
+88 green	paCCi //
+89 yellow	pasupupaCCa //
+90 white	vella //
+91 black	nalla //
+92 night	%ratri //
+93 hot	veCCani //
+94 cold	Calla //
+95 full	nindina //
+96 new	kotta //
+97 good	manCi //
+98 round	gundra //
+99 dry	endina //
+100 name	peru //
+TAMIL
+ 1   11.00   78.50    66678890   tml   tam
+1 I	nan //
+2 you	ni //
+3 we	nankal //
+4 this	inta //
+5 that	anta //
+6 who	yar //
+7 what	enna //
+8 not	alla //
+9 all	ella //
+10 many	pala //
+11 one	onru //
+12 two	irantu //
+13 big	periya //
+14 long	ninta //
+15 small	Ciriya //
+16 woman	pen //
+17 man	an //
+18 person	manitan //
+19 fish	min //
+20 bird	paravai //
+21 dog	nay //
+22 louse	pen //
+23 tree	maram //
+24 seed	vitai //
+25 leaf	ilai //
+26 root	ver //
+27 bark	patai //
+28 skin	tol //
+29 flesh	iraiCCi //
+30 blood	%rattam //
+31 bone	elumpu //
+32 grease	kolutta //
+33 egg	muttai //
+34 horn	kompu //
+35 tail	val //
+36 feather	iraku //
+37 hair	mayir //
+38 head	talai //
+39 ear	katu //
+40 eye	kan //
+41 nose	mukku //
+42 mouth	vay //
+43 tooth	pal //
+44 tongue	nakku //
+45 claw	nakam //
+46 foot	ati //
+47 knee	mulankal //
+48 hand	kai //
+49 belly	vayiru //
+50 neck	kaluttu //
+51 breast	marpu //
+52 heart	itayam //
+53 liver	iral //
+54 drink	kuti //
+55 eat	Cappitu //
+56 bite	kati //
+57 see	kan //
+58 hear	kel //
+59 know	ari //
+60 sleep	uranku //
+61 die	Ca //
+62 kill	kol //
+63 swim	nintu //
+64 fly	para //
+65 walk	natu //
+66 come	varu //
+67 lie	kita //
+68 sit	utkar //
+69 stand	nil //
+70 give	kotu //
+71 say	Col //
+72 sun	%Curiyan //
+73 moon	Cantiran //
+74 star	min //
+75 water	tannir //
+76 rain	malai //
+77 stone	kal //
+78 sand	manal //
+79 earth	man //
+80 cloud	mekam //
+81 smoke	pukai //
+82 fire	neruppu //
+83 ash	Campal //
+84 burn	Cutu //
+85 path	vali //
+86 mountain	malai //
+87 red	Cem //
+88 green	paCu //
+89 yellow	ma5kal //
+90 white	vel //
+91 black	karu //
+92 night	iravu //
+93 hot	vetuvetu //
+94 cold	kulirnta //
+95 full	nirainta //
+96 new	putu //
+97 good	nalla //
+98 round	vatta //
+99 dry	ularnta //
+100 name	peyar //
+CANTONESE
+ 1   23.00  113.00    73355610   cnt   yue
+1 I	No //
+2 you	nei dei //
+3 we	No dei //
+4 this	nigo //
+5 that	go go //
+6 who	bin go //
+7 what	mat ye, me ye //
+8 not	m //
+9 all	gogo dou //
+10 many	hou do //
+11 one	yat //
+12 two	yi //
+13 big	dai //
+14 long	CeuN //
+15 small	sai //
+16 woman	neui yan //
+17 man	namyan //
+18 person	yan //
+19 fish	yu //
+20 bird	jeuk jai //
+21 dog	gau //
+22 louse	sat na //
+23 tree	sy~u //
+24 seed	juN ji //
+25 leaf	sy~u yip //
+26 root	gan //
+27 bark	sy~u peih //
+28 skin	pei fu //
+29 flesh	yuk //
+30 blood	hy~ut //
+31 bone	gw~at //
+32 grease	yau //
+33 egg	dan //
+34 horn	gok //
+35 tail	mei //
+36 feather	jeuk mou //
+37 hair	tau fat //
+38 head	tau hok //
+39 ear	yi jai //
+40 eye	Nan //
+41 nose	bei go //
+42 mouth	hau, jeui //
+43 tooth	Na //
+44 tongue	lei //
+45 claw	jau //
+46 foot	geuk //
+47 knee	sat tau go //
+48 hand	sau //
+49 belly	tou //
+50 neck	geN //
+51 breast	nin, nai //
+52 heart	sam //
+53 liver	gon, yeun //
+54 drink	yam //
+55 eat	sik //
+56 bite	Nau //
+57 see	tai //
+58 hear	teN gin //
+59 know	ji dou //
+60 sleep	fan gau //
+61 die	sei //
+62 kill	jiN sei, da sei //
+63 swim	yauh seui //
+64 fly	fei //
+65 walk	haN //
+66 come	lei, lai //
+67 lie	fan dai, fan hai //
+68 sit	Coh //
+69 stand	kei //
+70 give	bei //
+71 say	goN, wa //
+72 sun	yat tau, tai yeuN //
+73 moon	yut gw~oN //
+74 star	siN //
+75 water	seui //
+76 rain	yi //
+77 stone	sek //
+78 sand	sa //
+79 earth	dei //
+80 cloud	wan //
+81 smoke	yin //
+82 fire	fo //
+83 ash	fui //
+84 burn	siu //
+85 path	lou jai //
+86 mountain	san //
+87 red	huN //
+88 green	luk //
+89 yellow	woN //
+90 white	bak //
+91 black	hak //
+92 night	ye man, hak //
+93 hot	yit //
+94 cold	laN, duN //
+95 full	mun //
+96 new	san //
+97 good	hou //
+98 round	yun //
+99 dry	gon //
+100 name	meN //
+MANDARIN
+ 1   34.00  110.00   908762230   kug   cmn
+1 I	wo //
+2 you	ni men //
+3 we	wo men //
+4 this	cu, Ce //
+5 that	na //
+6 who	Swei, ho jen //
+7 what	Sen mo, cen yaN te //
+8 not	buh //
+9 all	Cy~uan buh //
+10 many	CuN to te //
+11 one	i //
+12 two	el //
+13 big	ta te //
+14 long	CarN //
+15 small	Seau //
+16 woman	fuh neu //
+17 man	nan ren //
+18 person	jen //
+19 fish	yu //
+20 bird	neau //
+21 dog	gou //
+22 louse	Sy~c //
+23 tree	Suh //
+24 seed	cy~y //
+25 leaf	yec //
+26 root	gen //
+27 bark	Su pi //
+28 skin	py~i fu //
+29 flesh	jou //
+30 blood	Siueh //
+31 bone	gw~utou //
+32 grease	yu Cih //
+33 egg	ji dan //
+34 horn	Ciao //
+35 tail	woeiba //
+36 feather	yumao //
+37 hair	tour fa //
+38 head	tour //
+39 ear	elduo //
+40 eye	yean jiN //
+41 nose	by~ic //
+42 mouth	coei //
+43 tooth	ya Cy~y //
+44 tongue	Sertou //
+45 claw	Cua //
+46 foot	jeau //
+47 knee	Si //
+48 hand	Sou //
+49 belly	duc //
+50 neck	borc //
+51 breast	SioN pw~u //
+52 heart	Sin canq //
+53 liver	gan canq //
+54 drink	he //
+55 eat	Cy //
+56 bite	yao //
+57 see	kan jian //
+58 hear	tiN //
+59 know	jen Sih //
+60 sleep	Suey jiaw //
+61 die	su, yin Sih //
+62 kill	Sa su //
+63 swim	you yeoN //
+64 fly	fei //
+65 walk	cou //
+66 come	lai //
+67 lie	taN hsia //
+68 sit	couh //
+69 stand	jan //
+70 give	gei //
+71 say	Suo //
+72 sun	tay yaN //
+73 moon	yueh lianq //
+74 star	SiNSiN //
+75 water	Soei //
+76 rain	yeu //
+77 stone	Sy~rtou //
+78 sand	Sac //
+79 earth	dih Cy~ou //
+80 cloud	yun cae //
+81 smoke	ian //
+82 fire	huo //
+83 ash	huai Su //
+84 burn	Sau //
+85 path	hsiao lu //
+86 mountain	San //
+87 red	horN //
+88 green	liuh Se //
+89 yellow	hw~aN //
+90 white	bair //
+91 black	hei //
+92 night	woanSanq //
+93 hot	reh //
+94 cold	harn leN //
+95 full	CoN man //
+96 new	Sin //
+97 good	hao //
+98 round	yuan //
+99 dry	gan caw //
+100 name	miNc //
+OLD_CHINESE
+ 1   36.12  114.32          -2         och
+1 I	Na //
+2 you	na7 //
+3 we	Nay7~ //
+11 one	it //
+12 two	nits, niks //
+18 person	nin, niN //
+19 fish	Na //
+21 dog	khw$ir7~ //
+22 louse	srik //
+23 tree	XXX //
+25 leaf	lap //
+28 skin	mp~ay //
+30 blood	hm~ik //
+31 bone	kut //
+34 horn	XXX //
+39 ear	n3N7~ //
+40 eye	miwk //
+41 nose	mp~it, mp~its //
+43 tooth	mqh$ra, tkh~37 //
+44 tongue	mlat //
+47 knee	XXX //
+48 hand	hn~u7 //
+51 breast	no7 //
+53 liver	kar //
+54 drink	3m7~ //
+57 see	qens, ta7 //
+58 hear	mun //
+61 die	siy7~ //
+66 come	m3r3, m3r3k //
+72 sun	XXX //
+74 star	seN //
+75 water	hl~uy7~ //
+77 stone	dak //
+82 fire	hm~3y7~ //
+85 path	k3raks //
+86 mountain	XXX //
+92 night	laks //
+95 full	XXX //
+96 new	siN //
+100 name	meN //
+THAI
+ 1   16.00  101.00    20558630   tha   tha
+1 I	Th~an //
+2 you	dh~ew //
+3 we	rau //
+11 one	hn3N //
+12 two	%soN //
+18 person	gon //
+19 fish	pla //
+21 dog	hma //
+22 louse	hau //
+23 tree	mai //
+25 leaf	bai //
+28 skin	hnaN //
+30 blood	l3at //
+31 bone	kraduk //
+34 horn	kh~au //
+39 ear	hu //
+40 eye	ta //
+41 nose	%Tamuk //
+43 tooth	van //
+44 tongue	lin //
+47 knee	kh~au //
+48 hand	m3 //
+51 breast	nom //
+53 liver	tap //
+54 drink	d3m //
+57 see	hen //
+58 hear	yin //
+61 die	tai //
+66 come	ma //
+72 sun	tabwan //
+74 star	dau //
+75 water	nam //
+77 stone	hin //
+82 fire	vai //
+85 path	daN //
+86 mountain	kh~au //
+92 night	g3n //
+95 full	tem //
+96 new	hmai //
+100 name	Z3 //
+VIETNAMESE
+ 1   10.50  106.50    67960920   vie   vie
+1 I	toi //
+2 you	may, ti //
+3 we	ta, mi5 //
+4 this	XXX //
+5 that	XXX //
+6 who	XXX //
+7 what	kai gi //
+8 not	kx~oN //
+9 all	XXX //
+10 many	5ieu //
+11 one	mot //
+12 two	hai //
+13 big	lon //
+14 long	Zai //
+15 small	5o //
+16 woman	XXX //
+17 man	XXX //
+18 person	Nuoi //
+19 fish	ka //
+20 bird	tim //
+21 dog	to //
+22 louse	ti //
+23 tree	kay //
+24 seed	hot //
+25 leaf	la //
+26 root	re //
+27 bark	vo kay //
+28 skin	Za //
+29 flesh	8it //
+30 blood	mau //
+31 bone	SuoN //
+32 grease	XXX //
+33 egg	CuN //
+34 horn	XXX //
+35 tail	Zuoi //
+36 feather	loN tim //
+37 hair	tok //
+38 head	dau //
+39 ear	tai //
+40 eye	mat //
+41 nose	mui //
+42 mouth	mieN //
+43 tooth	raN //
+44 tongue	luoi //
+45 claw	moN //
+46 foot	tan //
+47 knee	dau goi //
+48 hand	tay //
+49 belly	XXX //
+50 neck	ko //
+51 breast	Nuk //
+52 heart	Cai tim //
+53 liver	%gan //
+54 drink	uoN //
+55 eat	an //
+56 bite	XXX //
+57 see	%8ay //
+58 hear	Nhe //
+59 know	biet //
+60 sleep	XXX //
+61 die	tet //
+62 kill	giet //
+63 swim	XXX //
+64 fly	bay //
+65 walk	di //
+66 come	XXX //
+67 lie	Nu, nam //
+68 sit	Noi //
+69 stand	duN Zay //
+70 give	to //
+71 say	raN //
+72 sun	mat Coi //
+73 moon	CaN //
+74 star	Noi sao //
+75 water	nuok //
+76 rain	mua //
+77 stone	da //
+78 sand	kat //
+79 earth	dat //
+80 cloud	maj //
+81 smoke	kx~oi //
+82 fire	lua //
+83 ash	Co //
+84 burn	tay //
+85 path	duoN //
+86 mountain	nui //
+87 red	do //
+88 green	XXX //
+89 yellow	vaN //
+90 white	CaN //
+91 black	den //
+92 night	dem //
+93 hot	noN //
+94 cold	la5 //
+95 full	day //
+96 new	moi //
+97 good	tot //
+98 round	XXX //
+99 dry	kx~o //
+100 name	ten //
+TAGALOG
+ 1   15.00  121.00    23402390   tag   tgl
+1 I	ako //
+2 you	ikaw, ka //
+3 we	tayo, kami //
+4 this	ito //
+5 that	iyan, iyon //
+6 who	sino //
+7 what	ano //
+8 not	hindi //
+9 all	lahat //
+10 many	marami //
+11 one	isa //
+12 two	dalawa //
+13 big	malaki //
+14 long	mahaba //
+15 small	malit, munti //
+16 woman	babae //
+17 man	lalaki //
+18 person	tao //
+19 fish	isda //
+20 bird	ibon //
+21 dog	aso //
+22 louse	kuto //
+23 tree	punuNkahoy, puno //
+24 seed	binhi, buto //
+25 leaf	dahon //
+26 root	ugat //
+27 bark	balat N puno //
+28 skin	balat //
+29 flesh	karne, laman //
+30 blood	dugo //
+31 bone	buto //
+32 grease	taba //
+33 egg	itlog //
+34 horn	saNay //
+35 tail	buntoto //
+36 feather	balahibo //
+37 hair	buhok //
+38 head	ulo //
+39 ear	teNa, taiNa //
+40 eye	mata //
+41 nose	iloN //
+42 mouth	buNaNa, bibig //
+43 tooth	Nipin //
+44 tongue	dila //
+45 claw	kuko //
+46 foot	pa //
+47 knee	tuhod //
+48 hand	kamay //
+49 belly	tiyan //
+50 neck	leg //
+51 breast	susu //
+52 heart	puso //
+53 liver	atay //
+54 drink	inom //
+55 eat	kain //
+56 bite	kagat //
+57 see	tiNin, kita //
+58 hear	dinig, kinig //
+59 know	alam //
+60 sleep	tulog //
+61 die	patay //
+62 kill	patay, paslaN //
+63 swim	laNoy //
+64 fly	lipad //
+65 walk	lakad //
+66 come	datiN //
+67 lie	higa, hilata //
+68 sit	upo //
+69 stand	tayo //
+70 give	bigay //
+71 say	sabi //
+72 sun	araw //
+73 moon	buwan //
+74 star	bituin //
+75 water	tubig //
+76 rain	ulan //
+77 stone	batu //
+78 sand	buhaNin //
+79 earth	lupa //
+80 cloud	alapap, ulap //
+81 smoke	usok, aso //
+82 fire	apoy //
+83 ash	abo //
+84 burn	sunogin //
+85 path	dan, kalsada //
+86 mountain	bundok //
+87 red	pula //
+88 green	berde, luntian //
+89 yellow	dilaw //
+90 white	puti //
+91 black	itim //
+92 night	gabi //
+93 hot	mainit //
+94 cold	malamig //
+95 full	puno //
+96 new	bago //
+97 good	mabuti //
+98 round	bilog //
+99 dry	tuyo //
+100 name	paNalan, Nalan //
+INDONESIAN
+ 1    0.00  106.00    23107820   ind   ind
+1 I	saya, aku //
+2 you	saudara, anda //
+3 we	kami, kita //
+4 this	ini //
+5 that	itu //
+6 who	siapa //
+7 what	apa //
+8 not	bukan, tidak //
+9 all	semua //
+10 many	banyak //
+11 one	satu //
+12 two	dua //
+13 big	besar //
+14 long	panZaN //
+15 small	keCil //
+16 woman	perempuan, wanita //
+17 man	pria //
+18 person	oraN //
+19 fish	ikan //
+20 bird	buruN //
+21 dog	anZiN //
+22 louse	kutu //
+23 tree	pohon //
+24 seed	biZi //
+25 leaf	duan //
+26 root	akar //
+27 bark	kulit kayu //
+28 skin	kulit //
+29 flesh	dagiN //
+30 blood	darah //
+31 bone	tulaN //
+32 grease	lemak //
+33 egg	telur //
+34 horn	tanduk //
+35 tail	buntut //
+36 feather	bulu //
+37 hair	rambut //
+38 head	kepala //
+39 ear	teliNa //
+40 eye	mata //
+41 nose	hiduN //
+42 mouth	mulut //
+43 tooth	gigi //
+44 tongue	lidah //
+45 claw	kuku //
+46 foot	kaki //
+47 knee	lutut //
+48 hand	taNan //
+49 belly	perut //
+50 neck	leher //
+51 breast	buah dada, susu //
+52 heart	ZantuN //
+53 liver	hati //
+54 drink	minum //
+55 eat	makan //
+56 bite	gigit //
+57 see	lihat //
+58 hear	mendeNar //
+59 know	tahu //
+60 sleep	tidur //
+61 die	mati //
+62 kill	bunuh //
+63 swim	berenaN //
+64 fly	terbaN //
+65 walk	Zalan //
+66 come	dataN //
+67 lie	berbariN //
+68 sit	duduk //
+69 stand	berdiri //
+70 give	beri //
+71 say	kata //
+72 sun	mata hari, surya //
+73 moon	bulan //
+74 star	bintaN //
+75 water	air //
+76 rain	huZan //
+77 stone	batu //
+78 sand	pasir //
+79 earth	bumi, darat //
+80 cloud	awan //
+81 smoke	asap //
+82 fire	api //
+83 ash	abu //
+84 burn	bakar //
+85 path	Zalan //
+86 mountain	gunuN //
+87 red	merah //
+88 green	hiZau //
+89 yellow	kuniN //
+90 white	putih //
+91 black	hitam //
+92 night	malam //
+93 hot	haNat, panas //
+94 cold	diNin //
+95 full	penuh //
+96 new	baru //
+97 good	baik //
+98 round	bulat //
+99 dry	keriN //
+100 name	%nama //
+WARLPIRI
+ 1  -20.00  132.33        2510   wrl   wbp
+1 I	NaCu, na //
+2 you	5unt~u, np~a //
+3 we	Nali, li //
+11 one	Cint~a //
+12 two	Cirama, Cirima //
+18 person	yapa, palka //
+19 fish	luwanC~a, kakaly~u //
+21 dog	maliki, tand~au //
+22 louse	lutu, yaka //
+23 tree	watiya //
+25 leaf	Caly~irpa //
+28 skin	pint~i, paNki //
+30 blood	yaly~u, Naparuku //
+31 bone	XXX //
+34 horn	malpint~iri, yarawily~unu //
+39 ear	piCara, laNa //
+40 eye	milpa //
+41 nose	muly~u //
+43 tooth	katidi //
+44 tongue	Calanpa, Calan5pa //
+47 knee	midi, mudu //
+48 hand	daka, taka //
+51 breast	duku, tuku //
+53 liver	yalami, 5ilima //
+54 drink	Nani //
+57 see	5a5i //
+58 hear	puda5a5i //
+61 die	palimi, 5unupalimi //
+66 come	yani //
+72 sun	want~a, Nililpa //
+74 star	wanC~ilpiri, wanC~ily~piri //
+75 water	Napa //
+77 stone	pili, pulu //
+82 fire	walu //
+85 path	wiliyala, want~ari //
+86 mountain	Nanka //
+92 night	muNa, kutu //
+95 full	pidaCari //
+96 new	CalaNuwanu //
+100 name	yidi //
+KICHE
+ 1   15.00  -91.42      891000   qch   quc
+1 I	in //
+2 you	at //
+3 we	ox //
+11 one	xun //
+12 two	kieb //
+18 person	winaq //
+19 fish	kar //
+21 dog	c"i7 //
+22 louse	saq"uq, saquk", uk", sis //
+23 tree	Ce7 //
+25 leaf	Saq //
+28 skin	c"um, c"umal //
+30 blood	kik" //
+31 bone	baq //
+34 horn	uk"a //
+39 ear	Sikin //
+40 eye	baq"waC //
+41 nose	ca7m //
+43 tooth	e7, ware7 //
+44 tongue	aq //
+47 knee	wi7, a7, C"ek //
+48 hand	q"ab //
+51 breast	tu7 //
+53 liver	paror, poror, saseb, seseb //
+54 drink	uk"iax, kok"xa7nik //
+57 see	ka7yex, il //
+58 hear	ta //
+61 die	kamik //
+66 come	petik //
+72 sun	q"ix //
+74 star	C"imil, C"umil //
+75 water	xa7 //
+77 stone	abax //
+82 fire	porom, q"aq" //
+85 path	be //
+86 mountain	xuyup //
+92 night	aq"ab //
+95 full	noxik //
+96 new	k"ak" //
+100 name	bi7 //
+APURINA
+ 2   -9.00  -67.00        2000   apu   apu
+1 I	nota //
+2 you	pita //
+3 we	ata //
+4 this	3ye //
+5 that	3kara //
+6 who	ker3pa //
+7 what	kepa //
+8 not	kona //
+9 all	3k35ipe //
+10 many	ito5i //
+11 one	ha*t3, a*t3 //
+12 two	epi //
+13 big	mita //
+14 long	o*tano //
+15 small	XaSe //
+16 woman	s3to //
+17 man	k3k3 //
+18 person	XXX //
+19 fish	Simak3 //
+20 bird	kot3perek3 //
+21 dog	ana*panar3 //
+22 louse	nipa //
+23 tree	a*m3na //
+24 seed	k3 //
+25 leaf	copa, Sike //
+26 root	koca //
+27 bark	ta*ta //
+28 skin	mata //
+29 flesh	Se5i //
+30 blood	here*ka, ere*ka //
+31 bone	ap3 //
+32 grease	i* //
+33 egg	nak3 //
+34 horn	iko //
+35 tail	Sipi //
+36 feather	piti //
+37 hair	Sike //
+38 head	k3w3 //
+39 ear	ke*pita //
+40 eye	ok3 //
+41 nose	kiri //
+42 mouth	nama //
+43 tooth	ciri* //
+44 tongue	n3n3 //
+45 claw	saXata //
+46 foot	kiti //
+47 knee	poto //
+48 hand	Xako //
+49 belly	tikaka //
+50 neck	nok3 //
+51 breast	ten3 //
+52 heart	a*k3pe, ha*k3pe //
+53 liver	k3c3ne //
+54 drink	a*ta //
+55 eat	5ika //
+56 bite	kacata //
+57 see	atama //
+58 hear	kemako //
+59 know	3mata //
+60 sleep	3maka //
+61 die	3k3*pe //
+62 kill	oka //
+63 swim	noa*te //
+64 fly	ara* //
+65 walk	ayana //
+66 come	3na //
+67 lie	Siri //
+68 sit	yotapaka //
+69 stand	t3ma //
+70 give	s3ka //
+71 say	Ca //
+72 sun	atokaCi //
+73 moon	kas3r3 //
+74 star	yo*r3k3 //
+75 water	i*pora* //
+76 rain	i*pora* //
+77 stone	kai //
+78 sand	k3paCi //
+79 earth	Siti //
+80 cloud	ya5i* //
+81 smoke	Ci*ya* //
+82 fire	Sam3na //
+83 ash	serepi //
+84 burn	ari, arika //
+85 path	kimapor3 //
+86 mountain	sona //
+87 red	po*kamare //
+88 green	pose*taka //
+89 yellow	pose*taka //
+90 white	kasero //
+91 black	pomama //
+92 night	i*kano*ka //
+93 hot	poma //
+94 cold	pocaya //
+95 full	katuma //
+96 new	e*ito //
+97 good	hareka //
+98 round	kapoko //
+99 dry	sona*ka //
+100 name	hiXa*ka, iXa*ka //
+MUNDURUKU
+ 1   -7.00  -58.00        8000   muu   myu
+1 I	o5 //
+2 you	e5 //
+3 we	w3iyi //
+11 one	p3N //
+12 two	xepxep //
+18 person	XXX //
+19 fish	axima //
+21 dog	ak3riTe //
+22 louse	kip //
+23 tree	ip //
+25 leaf	d3p //
+28 skin	xe //
+30 blood	doi //
+31 bone	dao //
+34 horn	akara*s3* //
+39 ear	iNuibu //
+40 eye	ita //
+41 nose	tabu* //
+43 tooth	tu*y //
+44 tongue	iko* //
+47 knee	3*N7a //
+48 hand	ibu //
+51 breast	iku*m //
+53 liver	iopsa //
+54 drink	kon //
+57 see	yoyo //
+58 hear	ia7o*picu*N //
+61 die	XXX //
+66 come	dot //
+72 sun	kaxi //
+74 star	kasopta //
+75 water	idibi //
+77 stone	wita7a //
+82 fire	daxa //
+85 path	XXX //
+86 mountain	co7a //
+92 night	ixima //
+95 full	nopapu*n //
+96 new	is3 //
+100 name	b3tit //
+AKUNTSU
+ 2  -13.10  -61.10           5         aqz
+1 I	on //
+2 you	en, ene //
+3 we	kiCe //
+11 one	XXX //
+12 two	XXX //
+18 person	na*Nk~op //
+19 fish	kuitpit //
+21 dog	XXX //
+22 louse	k3p //
+23 tree	g3p //
+25 leaf	Ep //
+28 skin	pE7 //
+30 blood	E73 //
+31 bone	XXX //
+34 horn	awCa //
+39 ear	apitEp //
+40 eye	papap //
+41 nose	a*mp~i7a //
+43 tooth	ya*y //
+44 tongue	XXX //
+47 knee	XXX //
+48 hand	po //
+51 breast	kE*m //
+53 liver	XXX //
+54 drink	XXX //
+57 see	XXX //
+58 hear	XXX //
+61 die	XXX //
+66 come	XXX //
+72 sun	ki*akop //
+74 star	barubaru //
+75 water	3k3 //
+77 stone	gw~a7i //
+82 fire	otat //
+85 path	XXX //
+86 mountain	XXX //
+92 night	XXX //
+95 full	XXX //
+96 new	XXX //
+100 name	XXX //
+MAKURAP
+ 1  -12.50  -62.50          50         mpu
+1 I	o*t //
+2 you	e*t //
+3 we	te*yE* //
+11 one	ErEko*t //
+12 two	ErE //
+18 person	XXX //
+19 fish	potkap //
+21 dog	Eme*ko7 //
+22 louse	N3p //
+23 tree	k3p //
+25 leaf	tEp //
+28 skin	Cepe //
+30 blood	Ce3 //
+31 bone	XXX //
+34 horn	Eik3p //
+39 ear	EpiCep //
+40 eye	tipCE //
+                                          53 liver	piE //
+54 drink	E //
+57 see	top //
+58 hear	XXX //
+61 die	XXX //
+66 come	XXX //
+72 sun	NgeEt //
+74 star	bErubEru //
+75 water	3 //
+77 stone	bEi //
+82 fire	uCEt //
+85 path	pe //
+86 mountain	noE //
+92 night	Ni*tEk //
+95 full	tom //
+96 new	XXX //
+100 name	et //
+GUAJAJARA
+ 1   -5.00  -46.00       14000   gjj   gub
+1 I	ihe //
+2 you	ne //
+3 we	yane //
+11 one	pitei //
+12 two	mokoy //
+18 person	XXX //
+19 fish	pira //
+21 dog	iawara //
+22 louse	k3w //
+23 tree	w3rapar //
+25 leaf	ka7aruere //
+28 skin	pirer //
+30 blood	3w3kw~er //
+31 bone	kaN //
+34 horn	i7akw~ere //
+39 ear	nami //
+40 eye	eha //
+41 nose	ci //
+43 tooth	i3 //
+44 tongue	piku //
+47 knee	peneraN //
+48 hand	po //
+51 breast	kam //
+53 liver	p37a //
+54 drink	37u //
+57 see	ecak //
+58 hear	enu //
+61 die	meno //
+66 come	eyure //
+72 sun	kw~arah3 //
+74 star	3ah3tata //
+75 water	XXX //
+77 stone	ita //
+82 fire	tata //
+85 path	pe //
+86 mountain	3w3t3r //
+92 night	p3tun //
+95 full	por //
+96 new	p3ahu //
+100 name	er //
+TUPINAMBA
+ 1   -8.00  -40.00          -2         tpn
+1 I	ixe //
+2 you	nd~e //
+3 we	iand~e //
+11 one	oiepe //
+12 two	moko*i //
+18 person	XXX //
+19 fish	pira //
+21 dog	wararuwiyap aguara //
+22 louse	kib //
+23 tree	ib //
+25 leaf	ka //
+28 skin	apepuera //
+30 blood	uwi //
+31 bone	kaNa //
+34 horn	aka //
+39 ear	namb~i //
+40 eye	esa //
+41 nose	ti* //
+43 tooth	a*ia //
+44 tongue	apekun //
+47 knee	anipi7a* //
+48 hand	poa* //
+51 breast	kam //
+53 liver	pi7a //
+54 drink	i7u //
+57 see	epiak //
+58 hear	and~ub //
+61 die	mano* //
+66 come	iur //
+72 sun	kuarasi //
+74 star	iasitata //
+75 water	XXX //
+77 stone	ita //
+82 fire	tata //
+85 path	ape //
+86 mountain	ibitir //
+92 night	pituna //
+95 full	por //
+96 new	piasasu //
+100 name	era //
+KAAPOR
+ 1   -2.33  -46.50         800   urk   urb
+1 I	ihe* //
+2 you	nd~e //
+3 we	yand~e //
+4 this	keme7e* //
+5 that	peme7e* //
+6 who	awa //
+7 what	ma7e //
+8 not	3m //
+9 all	upa //
+10 many	heta //
+11 one	petei* //
+12 two	moko*y //
+13 big	keruhu* //
+14 long	puku //
+15 small	ta73r //
+16 woman	ku*ya* //
+17 man	sawa7e //
+18 person	XXX //
+19 fish	pira //
+20 bird	w3ra //
+21 dog	yawar //
+22 louse	k3 //
+23 tree	XXX //
+24 seed	ha7i* //
+25 leaf	ho //
+26 root	hapo //
+27 bark	XXX //
+28 skin	ta //
+29 flesh	so7o //
+30 blood	huw3 //
+31 bone	SaNwer //
+32 grease	ma7eka //
+33 egg	ipi7a //
+34 horn	ak //
+35 tail	huwai //
+36 feather	ha //
+37 hair	ha //
+38 head	a*ka* //
+39 ear	namb~i //
+40 eye	eha //
+41 nose	a*pu*i //
+42 mouth	yuru //
+43 tooth	a*i //
+44 tongue	aramb~e //
+45 claw	poa*pe* //
+46 foot	p3 //
+47 knee	Sanawa7i //
+48 hand	po //
+49 belly	pusu //
+50 neck	yurup3 //
+51 breast	kamb~3 //
+52 heart	Siraham //
+53 liver	pi7a //
+54 drink	XXX //
+55 eat	u7u //
+56 bite	su7u //
+57 see	usak //
+58 hear	end~u //
+59 know	ukw~a //
+60 sleep	ukw~er //
+61 die	mano* //
+62 kill	yukw~a //
+63 swim	XXX //
+64 fly	wewe //
+65 walk	pohori //
+66 come	uw3r //
+67 lie	nino //
+68 sit	wap3k //
+69 stand	pu7am //
+70 give	me7eN //
+71 say	ye7e* //
+72 sun	warah3 //
+73 moon	yah3 //
+74 star	yah3rata //
+75 water	XXX //
+76 rain	aman //
+77 stone	ita //
+78 sand	3w3ku7i //
+79 earth	3w3 //
+80 cloud	3wa taka*Si* //
+81 smoke	tata taka*Si* //
+82 fire	tata //
+83 ash	tatimb~uk //
+84 burn	ukw~ai //
+85 path	pe //
+86 mountain	3w37am //
+87 red	ipira* //
+88 green	how3 //
+89 yellow	how3te //
+90 white	ituw3r //
+91 black	pihun //
+92 night	p3tun //
+93 hot	haku //
+94 cold	ir3sa* ipe //
+95 full	t3r3hem //
+96 new	p3ahu //
+97 good	katu //
+98 round	pu7a //
+99 dry	Sika* //
+100 name	her //
+     

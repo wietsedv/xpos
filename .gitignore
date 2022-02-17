@@ -1,0 +1,7 @@
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+
+wandb/
+output/
+logs/

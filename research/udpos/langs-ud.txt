@@ -1,0 +1,114 @@
+akk Akkadian
+hy Armenian
+cy Welsh
+no Norwegian
+orv Old East Slavic
+en English
+sq Albanian
+fr French
+qhe Hindi English
+sl Slovenian
+gub Guajajara
+kmr Kurmanji
+it Italian
+tr Turkish
+fi Finnish
+id Indonesian
+uk Ukrainian
+nl Dutch
+pl Polish
+pt Portuguese
+kk Kazakh
+la Latin
+fro Old French
+es Spanish
+bxr Buryat
+urb Kaapor
+ko Korean
+et Estonian
+hr Croatian
+got Gothic
+swl Swedish Sign Language
+gsw Swiss German
+aii Assyrian
+sme North Sami
+pcm Naija
+de German
+lv Latvian
+zh Chinese
+tl Tagalog
+bm Bambara
+lt Lithuanian
+gl Galician
+vi Vietnamese
+am Amharic
+el Greek
+ca Catalan
+soj Soi
+sv Swedish
+ess Yupik
+ru Russian
+cs Czech
+bej Beja
+myv Erzya
+bho Bhojpuri
+th Thai
+mr Marathi
+eu Basque
+sk Slovak
+quc Kiche
+yo Yoruba
+wbp Warlpiri
+nds Low Saxon
+ta Tamil
+mt Maltese
+grc Ancient Greek
+is Icelandic
+gun Mbya Guarani
+ur Urdu
+ro Romanian
+fa Persian
+apu Apurina
+ja Japanese
+hu Hungarian
+hi Hindi
+lzh Classical Chinese
+koi Komi Permyak
+fo Faroese
+sa Sanskrit
+olo Livvi
+ar Arabic
+wo Wolof
+bg Bulgarian
+aqz Akuntsu
+mpu Makurap
+xnr Kangri
+br Breton
+te Telugu
+yue Cantonese
+qtd Turkish German
+cu Old Church Slavonic
+krl Karelian
+hsb Upper Sorbian
+da Danish
+ajp South Levantine Arabic
+kpv Komi Zyrian
+ga Irish
+nyq Nayini
+qfn Frisian Dutch
+myu Munduruku
+gv Manx
+sms Skolt Sami
+af Afrikaans
+otk Old Turkish
+tpn Tupinamba
+be Belarusian
+cop Coptic
+sr Serbian
+mdf Moksha
+hyw Western Armenian
+gd Scottish Gaelic
+kfm Khunsari
+he Hebrew
+ug Uyghur
+ckt Chukchi

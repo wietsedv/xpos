@@ -1,0 +1,77 @@
+,language,SOV,SV,OV,OOV,AdpNP,GN,AN,DN,NN,RN,QP
+0,Afrikaans,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1,Albanian,SVO,SV,VO,Unknown,Prepositions,Noun-Genitive,Noun-Adjective,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Initial
+2,Ancient Greek,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+3,Arabic,VSO,VS,VO,VOX,Prepositions,Noun-Genitive,Noun-Adjective,Demonstrative-Noun,Numeral-Noun,Unknown,Initial
+4,Armenian,No dominant order,SV,No dominant order,No dominant order,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Mixed,No question particle
+5,Assyrian,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+6,Bambara,SOV,SV,OV,OVX,Postpositions,Genitive-Noun,Noun-Adjective,Mixed,Noun-Numeral,Correlative,Final
+7,Basque,SOV,SV,OV,XOV,Postpositions,Genitive-Noun,Noun-Adjective,Noun-Demonstrative,Numeral-Noun,Relative clause-Noun,Other position
+8,Belarusian,No dominant order,No dominant order,No dominant order,No dominant order,Unknown,Noun-Genitive,Adjective-Noun,Demonstrative-Noun,Unknown,Noun-Relative clause,Initial
+9,Bhojpuri,SOV,SV,OV,XOV,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Unknown,Initial
+10,Breton,SVO,VS,VO,Unknown,Prepositions,Noun-Genitive,Noun-Adjective,Noun-Demonstrative,Numeral-Noun,Noun-Relative clause,Initial
+11,Bulgarian,SVO,No dominant order,VO,VOX,Prepositions,No dominant order,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Second position
+12,Cantonese,SVO,SV,VO,XVO,No dominant order,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Relative clause-Noun,Unknown
+13,Catalan,SVO,No dominant order,VO,Unknown,Prepositions,Noun-Genitive,Noun-Adjective,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+14,Chinese,SVO,SV,VO,XVO,No dominant order,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Relative clause-Noun,Final
+15,Chukchi,No dominant order,SV,OV,Unknown,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Mixed,No question particle
+16,Czech,SVO,SV,VO,Unknown,Prepositions,No dominant order,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+17,Danish,SVO,SV,VO,VOX,Prepositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+18,Dutch,No dominant order,SV,No dominant order,No dominant order,Prepositions,Noun-Genitive,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+19,English,SVO,SV,VO,VOX,Prepositions,No dominant order,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+20,Erzya,SVO,SV,VO,Unknown,Postpositions,Unknown,Adjective-Noun,Unknown,Unknown,Unknown,Unknown
+21,Estonian,SVO,SV,VO,VOX,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,In either of two positions
+22,Faroese,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+23,Finnish,SVO,SV,VO,VOX,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Second position
+24,French,SVO,SV,VO,VOX,Prepositions,Noun-Genitive,Noun-Adjective,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Initial
+25,Galician,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+26,German,No dominant order,SV,No dominant order,No dominant order,Prepositions,Noun-Genitive,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+27,Greek,No dominant order,No dominant order,VO,Unknown,Prepositions,Noun-Genitive,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Initial
+28,Guajajara,VSO,VS,VO,VOX,Postpositions,Genitive-Noun,Noun-Adjective,Demonstrative-Noun,Numeral-Noun,Unknown,Unknown
+29,Hebrew,SVO,SV,VO,Unknown,Prepositions,Noun-Genitive,Noun-Adjective,Noun-Demonstrative,Numeral-Noun,Noun-Relative clause,Initial
+30,Hindi,SOV,SV,OV,Unknown,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Correlative,Initial
+31,Hungarian,No dominant order,SV,VO,Unknown,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Mixed,Unknown
+32,Icelandic,SVO,SV,VO,Unknown,Prepositions,Noun-Genitive,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Unknown
+33,Indonesian,SVO,SV,VO,VOX,Prepositions,Noun-Genitive,Noun-Adjective,Noun-Demonstrative,Numeral-Noun,Noun-Relative clause,In either of two positions
+34,Irish,VSO,VS,VO,VOX,Prepositions,Noun-Genitive,Noun-Adjective,Noun-Demonstrative,Numeral-Noun,Noun-Relative clause,Initial
+35,Italian,SVO,No dominant order,VO,Unknown,Prepositions,Noun-Genitive,Noun-Adjective,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+36,Japanese,SOV,SV,OV,XOV,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Relative clause-Noun,Final
+37,Kaapor,SOV,SV,OV,No dominant order,Postpositions,Genitive-Noun,Noun-Adjective,Demonstrative-Noun,Numeral-Noun,Unknown,Final
+38,Karelian,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+39,Kazakh,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+40,Korean,SOV,SV,OV,Unknown,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Relative clause-Noun,No question particle
+41,Kurmanji,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+42,Latvian,SVO,No dominant order,VO,Unknown,Prepositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Initial
+43,Lithuanian,SVO,SV,VO,Unknown,Prepositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Initial
+44,Maltese,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+45,Manx,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+46,Marathi,SOV,SV,OV,Unknown,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Relative clause-Noun,Final
+47,Munduruku,SOV,SV,OV,Unknown,Postpositions,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+48,North Sami,SVO,SV,VO,Unknown,Postpositions,Genitive-Noun,Adjective-Noun,Unknown,Unknown,Unknown,Unknown
+49,Norwegian,SVO,SV,VO,Unknown,Prepositions,No dominant order,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+50,Persian,SOV,SV,OV,Unknown,Prepositions,Noun-Genitive,Noun-Adjective,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Initial
+51,Polish,SVO,No dominant order,VO,Unknown,Prepositions,Noun-Genitive,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Initial
+52,Portuguese,SVO,SV,VO,Unknown,Prepositions,Noun-Genitive,Noun-Adjective,Demonstrative-Noun,Unknown,Noun-Relative clause,Initial
+53,Romanian,SVO,SV,VO,Unknown,Prepositions,Noun-Genitive,Noun-Adjective,Mixed,Numeral-Noun,Noun-Relative clause,No question particle
+54,Russian,SVO,SV,VO,Unknown,Prepositions,Noun-Genitive,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Second position
+55,Scottish Gaelic,VSO,VS,VO,VOX,Prepositions,Noun-Genitive,Noun-Adjective,Noun-Demonstrative,Numeral-Noun,Noun-Relative clause,No question particle
+56,Serbian,SVO,SV,VO,Unknown,Prepositions,No dominant order,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Unknown,In either of two positions
+57,Slovak,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+58,Slovenian,SVO,SV,VO,Unknown,Prepositions,No dominant order,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Unknown,Unknown
+59,Spanish,SVO,No dominant order,VO,VOX,Prepositions,Noun-Genitive,Noun-Adjective,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+60,Swedish,SVO,SV,VO,VOX,Prepositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+61,Tagalog,VSO,VS,VO,Unknown,Unknown,Noun-Genitive,No dominant order,Mixed,Numeral-Noun,Noun-Relative clause,Second position
+62,Tamil,SOV,SV,OV,XOV,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Relative clause-Noun,No question particle
+63,Telugu,SOV,SV,OV,Unknown,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Relative clause-Noun,No question particle
+64,Thai,SVO,SV,VO,VOX,Prepositions,Noun-Genitive,Noun-Adjective,Noun-Demonstrative,Noun-Numeral,Noun-Relative clause,Final
+65,Turkish,SOV,SV,OV,XOV,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Relative clause-Noun,Final
+66,Ukrainian,SVO,SV,VO,Unknown,Prepositions,Unknown,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,Initial
+67,Upper Sorbian,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+68,Urdu,SOV,SV,OV,Unknown,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Correlative,Initial
+69,Uyghur,SOV,SV,OV,Unknown,Unknown,Unknown,Adjective-Noun,Unknown,Unknown,Relative clause-Noun,Unknown
+70,Vietnamese,SVO,SV,VO,VOX,Prepositions,Noun-Genitive,Noun-Adjective,Noun-Demonstrative,Numeral-Noun,Noun-Relative clause,Final
+71,Warlpiri,No dominant order,No dominant order,No dominant order,No dominant order,Unknown,Unknown,Noun-Adjective,Unknown,Unknown,Adjoined,Second position
+72,Welsh,VSO,VS,VO,VOX,Prepositions,Noun-Genitive,Noun-Adjective,Noun-Demonstrative,Numeral-Noun,Noun-Relative clause,Initial
+73,Western Armenian,SOV,SV,OV,No dominant order,Postpositions,Genitive-Noun,Adjective-Noun,Demonstrative-Noun,Numeral-Noun,Noun-Relative clause,No question particle
+74,Wolof,SVO,SV,VO,VOX,Prepositions,Noun-Genitive,Noun-Adjective,Noun-Demonstrative,Numeral-Noun,Noun-Relative clause,Initial
+75,Yoruba,SVO,SV,VO,Unknown,Prepositions,Noun-Genitive,Noun-Adjective,Noun-Demonstrative,Noun-Numeral,Noun-Relative clause,No question particle

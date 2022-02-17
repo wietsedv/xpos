@@ -1,0 +1,106 @@
+,language_id,language,script
+0,akk,Akkadian,latin
+1,hy,Armenian,armenian
+2,cy,Welsh,latin
+3,no,Norwegian,latin
+4,orv,Old East Slavic,cyrillic
+5,en,English,latin
+6,sq,Albanian,latin
+7,fr,French,latin
+8,sl,Slovenian,latin
+9,gub,Guajajara,latin
+10,kmr,Kurmanji,latin
+11,it,Italian,latin
+12,tr,Turkish,latin
+13,fi,Finnish,latin
+14,id,Indonesian,latin
+15,uk,Ukrainian,cyrillic
+16,nl,Dutch,latin
+17,pl,Polish,latin
+18,pt,Portuguese,latin
+19,kk,Kazakh,cyrillic
+20,la,Latin,latin
+21,fro,Old French,latin
+22,es,Spanish,latin
+23,bxr,Buryat,cyrillic
+24,urb,Kaapor,latin
+25,ko,Korean,hangul
+26,et,Estonian,latin
+27,hr,Croatian,latin
+28,got,Gothic,latin
+29,gsw,Swiss German,latin
+30,aii,Assyrian,syriac
+31,sme,North Sami,latin
+32,pcm,Naija,latin
+33,de,German,latin
+34,lv,Latvian,latin
+35,zh,Chinese,chinese
+36,tl,Tagalog,latin
+37,bm,Bambara,latin
+38,lt,Lithuanian,latin
+39,gl,Galician,latin
+40,vi,Vietnamese,latin
+41,el,Greek,greek
+42,ca,Catalan,latin
+43,sv,Swedish,latin
+44,ru,Russian,cyrillic
+45,cs,Czech,latin
+46,myv,Erzya,cyrillic
+47,bho,Bhojpuri,devanagari
+48,th,Thai,thai
+49,mr,Marathi,devanagari
+50,eu,Basque,latin
+51,sk,Slovak,latin
+52,quc,Kiche,latin
+53,yo,Yoruba,latin
+54,wbp,Warlpiri,latin
+55,nds,Low Saxon,latin
+56,ta,Tamil,tamil
+57,mt,Maltese,latin
+58,grc,Ancient Greek,greek
+59,is,Icelandic,latin
+60,gun,Mbya Guarani,latin
+61,ur,Urdu,arabic
+62,ro,Romanian,latin
+63,fa,Persian,arabic
+64,apu,Apurina,latin
+65,ja,Japanese,kana
+66,hu,Hungarian,latin
+67,hi,Hindi,devanagari
+68,lzh,Classical Chinese,chinese
+69,koi,Komi Permyak,cyrillic
+70,fo,Faroese,latin
+71,sa,Sanskrit,latin
+72,olo,Livvi,latin
+73,ar,Arabic,arabic
+74,wo,Wolof,latin
+75,bg,Bulgarian,cyrillic
+76,aqz,Akuntsu,latin
+77,mpu,Makurap,latin
+78,xnr,Kangri,devanagari
+79,br,Breton,latin
+80,te,Telugu,telugu
+81,yue,Cantonese,chinese
+82,cu,Old Church Slavonic,cyrillic
+83,krl,Karelian,latin
+84,hsb,Upper Sorbian,latin
+85,da,Danish,latin
+86,ajp,South Levantine Arabic,arabic
+87,kpv,Komi Zyrian,cyrillic
+88,ga,Irish,latin
+89,nyq,Nayini,arabic
+90,myu,Munduruku,latin
+91,gv,Manx,latin
+92,sms,Skolt Sami,latin
+93,af,Afrikaans,latin
+94,otk,Old Turkish,old turkic
+95,tpn,Tupinamba,latin
+96,be,Belarusian,cyrillic
+97,sr,Serbian,latin
+98,mdf,Moksha,cyrillic
+99,hyw,Western Armenian,armenian
+100,gd,Scottish Gaelic,latin
+101,kfm,Khunsari,arabic
+102,he,Hebrew,hebrew
+103,ug,Uyghur,arabic
+104,ckt,Chukchi,cyrillic

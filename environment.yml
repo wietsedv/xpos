@@ -1,0 +1,30 @@
+channels:
+- wietsedv
+- nvidia
+- pytorch
+- conda-forge
+
+platforms:
+- linux-64
+- osx-arm64
+
+dependencies:
+- python >=3.9,<3.10
+- numpy >=1.20.0
+- pytorch >=1.9.0|>=1.9.0.arm64
+- tokenizers >=0.10.3
+- transformers ==4.10.2
+- wandb >=0.10.33
+- tabulate >=0.8.9
+- colorama >=0.4.4
+- seqeval >=1.2.2
+- datasets >=1.9.0
+- yapf >=0.31.0
+- statsmodels >=0.12.2
+- matplotlib >=3.4.3
+- seaborn >=0.11.2
+- pip >=21.2.4
+- conllu >=4.4.1
+- wikipedia >=1.4.0
+- notebook >=6.4.4
+- feather-format >=0.4.1
