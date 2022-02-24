@@ -7,7 +7,7 @@
 
  > **Abstract**: Cross-lingual transfer learning with large multilingual pre-trained models can be an effective approach for low-resource languages with no labeled training data. Existing evaluations of zero-shot cross-lingual generalisability of large pre-trained models use datasets with English training data, and test data in a selection of target languages. We explore a more extensive transfer learning setup with 65 different source languages and 105 target languages for part-of-speech tagging. Through our analysis, we show that pre-training of both source and target language, as well as matching language families, writing systems, word order systems, and lexical-phonetic distance significantly impact cross-lingual performance. 
 
-**Status:** Submitted to ACL 2022. Camera-ready preprint: TODO
+**Status:** Accepted by ACL 2022. Latest version: [click here](http://wietsedv.nl/files/devries_acl2022.pdf).
 
 ```bibtex
 @inproceedings{de-vries-etal-2021-cross,
