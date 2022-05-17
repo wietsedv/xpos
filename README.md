@@ -7,19 +7,21 @@
 
  > **Abstract**: Cross-lingual transfer learning with large multilingual pre-trained models can be an effective approach for low-resource languages with no labeled training data. Existing evaluations of zero-shot cross-lingual generalisability of large pre-trained models use datasets with English training data, and test data in a selection of target languages. We explore a more extensive transfer learning setup with 65 different source languages and 105 target languages for part-of-speech tagging. Through our analysis, we show that pre-training of both source and target language, as well as matching language families, writing systems, word order systems, and lexical-phonetic distance significantly impact cross-lingual performance. 
 
-**Status:** Accepted by ACL 2022. Latest version: [click here](http://wietsedv.nl/files/devries_acl2022.pdf).
+**Status:** Published at ACL 2022. Final version: [click here](https://aclanthology.org/2022.acl-long.529.pdf).
 
 ```bibtex
-@inproceedings{de-vries-etal-2021-cross,
-    title = "Make the Best of Cross-lingual Transfer: Evidence from POS Tagging with over 100 Languages",
+@inproceedings{de-vries-etal-2022-make,
+    title = "Make the Best of Cross-lingual Transfer: Evidence from {POS} Tagging with over 100 Languages",
     author = "de Vries, Wietse  and
-      Nissim, Malvina  and
-      Wieling, Martijn",
-    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics",
+      Wieling, Martijn  and
+      Nissim, Malvina",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     month = may,
     year = "2022",
-    address = "Online",
+    address = "Dublin, Ireland",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.529",
+    pages = "7676--7685",
 }
 ```
 
